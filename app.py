@@ -20,6 +20,7 @@ def read_subdirectory(url, subfolder="./"):
     source = requests.get(url, headers=HEADERS)
     soup = BeautifulSoup(source.text, "html.parser")
     imgs = soup.find_all("img", class_="image")
+    atag = soup.find_all("a")
     download_images_from_url_list(imgs, subfolder) 
 
 
@@ -27,14 +28,15 @@ def download_images_from_url_list(url_list, subfolder):
     myOpener = userurlopener.URLOpener()
     for img in url_list:
         imgurl = img['src']
+        casestring = img['id']
         filename = imgurl.split('/')[-1]
         save_file = join(ROOT_DIR, subfolder, filename)
 
         if not exists(save_file):
-            get_metadata(filename)
+            get_metadata(filename, casestring)
             myOpener.retrieve(imgurl, save_file)
 
-def get_metadata(image_name):
+def get_metadata(image_name, casestring):
     # get data
     try:
         with (open(METADATA_FILE, "r") as f):
@@ -43,28 +45,29 @@ def get_metadata(image_name):
         metadata = {}
     # image_name: the full image file path (ie. 123_1.jpg)
     image_id = image_name.split("_")[0]
+    case_id = casestring.split("_")[-1]
     # find metadata
-    meta_url = join(METADATA_ROOT, image_id)
+    meta_url = join(METADATA_ROOT, image_id, case_id)
     meta_src = requests.get(meta_url, headers=HEADERS)
     meta_soup = BeautifulSoup(meta_src.text, "html.parser")
-    meta = meta_soup.find_all('div', class_="col-sm-6")
+    plain_text = meta_soup.find_all('p')[1:]
     # select metadata
-    fields = str(meta).split("<p>")
-    metatags = {"site", "description", "diagnosis", "sex", "age", "type", "submitted by", "differential diagnosis", "full-size image"}
+    metatags = {"site", "description", "morphology", "diagnosis", "sex", "age", "type", "submitted by"}
     entry = {}
-    for field in fields:
-        field = field.replace("\n</div>]", "")
-        tag = field.split(":")[0]
+    for field in plain_text:
+        value = field.text
         for metatag in metatags:
-            data = field
             try:
-                data = field.split(":")[1]
+                pair = value.split(":")
+                tag = pair[0]
+                data = pair[1]
+                if metatag in tag.lower():
+                    print(metatag, value)
+                    data = value.split(":")[1].strip()
+                    entry[metatag] = data
             except:
-                print(image_id)
+                print("Invalid field")
                 pass
-            data = data.replace("</p>", "").strip()
-            if metatag in tag.lower():
-                entry[metatag] = data
     metadata[image_id] = entry
     try:
         with (open(METADATA_FILE, "w") as f):
@@ -85,3 +88,11 @@ for list_ in url_list:
                 diag_url = li.find('a')['href']
                 print(diag_url)
                 read_subdirectory(diag_url, subfolder=diagnosis)
+# _testurl = "https://globalskinatlas.com/public/diagnosis/23"
+# _src = requests.get(_testurl, headers=HEADERS)
+# _soup = BeautifulSoup(_src.text, "html.parser")
+# _a = _soup.find_all("a")
+# _img = _soup.find_all("img", class_="image")
+# for img in _img:
+#     _id = img['id']
+#     print(_id)

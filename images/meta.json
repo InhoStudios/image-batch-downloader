@@ -1,0 +1,6362 @@
+{
+    "97": {
+        "diagnosis": "Acne",
+        "description": "Nodules on chest wall",
+        "morphology": "Nodule pink",
+        "site": "Chest",
+        "sex": "M",
+        "age": "22",
+        "type": "Clinical & Histology",
+        "submitted by": "Ian McColl"
+    },
+    "123": {
+        "diagnosis": "Acne",
+        "description": "Papules and pustules",
+        "morphology": "Papules,red",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "129": {
+        "diagnosis": "Acne",
+        "description": "Nodules on the back",
+        "morphology": "Nodule,skin coloured",
+        "site": "Back",
+        "sex": "M",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "786": {
+        "diagnosis": "Acne",
+        "description": "",
+        "morphology": "Atrophy",
+        "site": "Back",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Mehravaran Mehrdad"
+    },
+    "1756": {
+        "diagnosis": "Acne",
+        "description": "Pustular acne.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2573": {
+        "diagnosis": "Acne",
+        "description": "Inflammatory acne.",
+        "morphology": "Pustules",
+        "site": "Chest",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4907": {
+        "diagnosis": "Acne",
+        "description": "Cystic acne",
+        "morphology": "Pustules",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Kiran Nabar"
+    },
+    "111": {
+        "diagnosis": "Acne comedonal",
+        "description": "Open comedones",
+        "morphology": "Papules,black",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "170": {
+        "diagnosis": "Acne comedonal",
+        "description": "closed comedones",
+        "morphology": "Papules white",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "14",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "852": {
+        "diagnosis": "Acne comedonal",
+        "description": "Open comedones",
+        "morphology": "Papules,black",
+        "site": "Face",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1443": {
+        "diagnosis": "Acne comedonal",
+        "description": "black opened comedonal papules",
+        "morphology": "Papules,black",
+        "site": "Face papules multiple",
+        "sex": "M",
+        "age": "19",
+        "type": "Clinical",
+        "submitted by": "alaa saad"
+    },
+    "1819": {
+        "diagnosis": "Acne comedonal",
+        "description": "Black-head comedones.",
+        "morphology": "Comedone",
+        "site": "Face",
+        "sex": "M",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "107": {
+        "diagnosis": "Acne cystic",
+        "description": "Cysts,pustules and scars on the chest wall",
+        "morphology": "Pustules",
+        "site": "Chest",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "279": {
+        "diagnosis": "Acne cystic",
+        "description": "Cysts, scars and pustules",
+        "morphology": "Pustules",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "385": {
+        "diagnosis": "Acne cystic",
+        "description": "Multiple nodules and cysts",
+        "morphology": "Nodule",
+        "site": "Face",
+        "sex": "M",
+        "age": "22",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "620": {
+        "diagnosis": "Acne cystic",
+        "description": "cyst,nodule,crust,scar",
+        "morphology": "Nodule",
+        "site": "Face",
+        "sex": "M",
+        "age": "24",
+        "type": "Clinical",
+        "submitted by": "Yahia Albaili"
+    },
+    "1779": {
+        "diagnosis": "Acne cystic",
+        "description": "Nodulocystic lesions.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2594": {
+        "diagnosis": "Acne cystic",
+        "description": "Nodulocystic acne.",
+        "morphology": "Nodule pink",
+        "site": "Face",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4744": {
+        "diagnosis": "Acne cystic",
+        "description": "Polymorphous acne lesions.",
+        "morphology": "Nodule discharging",
+        "site": "Face",
+        "sex": "M",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4932": {
+        "diagnosis": "Acne cystic",
+        "description": "Nodulocystic acne",
+        "morphology": "Cyst",
+        "site": "Back",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "52": {
+        "diagnosis": "Acne fulminans",
+        "description": "Sudden onset of painful pustules and cysts",
+        "morphology": "Pustules",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "254": {
+        "diagnosis": "Acne Keloidalis Nuchae",
+        "description": "keloidlike papules and plaques",
+        "morphology": "Papules,red",
+        "site": "Neck nape",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "527": {
+        "diagnosis": "Acne Keloidalis Nuchae",
+        "description": "Keloid like plaque studded with pustules and tufts of polytrichia producing doll like hair",
+        "morphology": "Plaque",
+        "site": "Neck nape",
+        "sex": "M",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1881": {
+        "diagnosis": "Acne Keloidalis Nuchae",
+        "description": "papules and keloid like plaques",
+        "morphology": "Plaque",
+        "site": "Neck nape",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Rajeswar Kunchakuri"
+    },
+    "2596": {
+        "diagnosis": "Acne Keloidalis Nuchae",
+        "description": "Scarring with tufted folliculitis.",
+        "morphology": "Scar",
+        "site": "Neck nape",
+        "sex": "M",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2680": {
+        "diagnosis": "Acne Keloidalis Nuchae",
+        "description": "Papules, pustules and scars.",
+        "morphology": "Scar",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "512": {
+        "diagnosis": "Acne neonatorum",
+        "description": "Comedones and inflammed papules",
+        "morphology": "Papules",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "22",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1521": {
+        "diagnosis": "Acne neonatorum",
+        "description": "Comedones and inflammed papules",
+        "morphology": "Papules",
+        "site": "Face papules multiple",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "alaa saad"
+    },
+    "2073": {
+        "diagnosis": "Acne scars",
+        "description": "Atrophic scars.",
+        "morphology": "Atrophy",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "153": {
+        "diagnosis": "Acneiform eruption",
+        "description": "Acneiform eruption on the back",
+        "morphology": "Papules,skin coloured",
+        "site": "Back",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "928": {
+        "diagnosis": "Acneiform eruption",
+        "description": "Acneiform",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "M",
+        "age": "67",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "1088": {
+        "diagnosis": "Acneiform eruption",
+        "description": "Monomorphous papulopustular eruption.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1646": {
+        "diagnosis": "Acneiform eruption",
+        "description": "Papulopustular rash.",
+        "morphology": "Pustules",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1777": {
+        "diagnosis": "Acneiform eruption",
+        "description": "Papulopustular rash.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "M",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2635": {
+        "diagnosis": "Acneiform eruption",
+        "description": "Monomorphous papulopustular rash.",
+        "morphology": "Papules",
+        "site": "Shoulder",
+        "sex": "F",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4753": {
+        "diagnosis": "Acneiform eruption",
+        "description": "",
+        "morphology": "Papules,red",
+        "site": "Back",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Jorge Lopez-Granja"
+    },
+    "417": {
+        "diagnosis": "Acrodermatitis continua",
+        "description": "multiple pustules with scale on an erythematous base",
+        "morphology": "Pustules",
+        "site": "Fingertips",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "757": {
+        "diagnosis": "Acrodermatitis continua",
+        "description": "Psoriasiform eruption with nail dystrophy",
+        "morphology": "Nail dystrophy",
+        "site": "Fingertips",
+        "sex": "F",
+        "age": "82",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "2618": {
+        "diagnosis": "Acrodermatitis continua",
+        "description": "Redness, pustules and nail loss.",
+        "morphology": "Pustules",
+        "site": "Fingertips",
+        "sex": "M",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "406": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Erosions and crusts on the cheeks",
+        "morphology": "Erosions",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "414": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Large erosions, crusting and eczematous lesions on acral parts",
+        "morphology": "Erosions",
+        "site": "Hands and Feet",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Irfan Bari"
+    },
+    "420": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Periorificial dermatitis",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1340": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Periorificial crusted dermatitis.",
+        "morphology": "Patch",
+        "site": "Perioral",
+        "sex": "F",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1342": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Psoriasiform rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1587": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Red scaly dermatitis reaction.",
+        "morphology": "Red,scaly",
+        "site": "Thigh",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1762": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Periorificial and groin eczematous rash.",
+        "morphology": "Red,scaly",
+        "site": "Groin infant",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1764": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Dermatitis-like reaction.",
+        "morphology": "Red,scaly",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2137": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Psoriasiform rash.",
+        "morphology": "Red,scaly",
+        "site": "Genital",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2481": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Oozy dermatitis-like rash.",
+        "morphology": "Red,scaly",
+        "site": "Perioral",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4839": {
+        "diagnosis": "Acrodermatitis enteropathica",
+        "description": "Eczematous rash",
+        "morphology": "Patch",
+        "site": "Gluteal cleft",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2312": {
+        "diagnosis": "Acrodermatitis enteropathica VIDEO",
+        "description": "erosions and crusts",
+        "morphology": "Erosions",
+        "site": "Face",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "232": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Large bullae",
+        "morphology": "Blisters",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "274": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Eczematous excoriated plaque",
+        "morphology": "Plaque",
+        "site": "Neck side",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "528": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Erythema vesiculation and blistering",
+        "morphology": "Blisters",
+        "site": "Leg",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "721": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Edema, erythema, and vesiculation",
+        "morphology": "Vesicles",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "772": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Erosions,erythema,scaling",
+        "morphology": "Erosions",
+        "site": "Lips",
+        "sex": "M",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Kiran Nabar"
+    },
+    "778": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Erythematous edematous plaques following the floral pattern of henna",
+        "morphology": "Plaque",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "820": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Tense painful blisters",
+        "morphology": "Blisters",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1437": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Blisters on erythematous base.",
+        "morphology": "Blisters",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1611": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Papulovesicular rash.",
+        "morphology": "Papules,red",
+        "site": "Face",
+        "sex": "F",
+        "age": "44",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1799": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Erythematous scaly patch.",
+        "morphology": "Patch",
+        "site": "Axillae",
+        "sex": "F",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1804": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Faintly erythematous scaly patch.",
+        "morphology": "Patch",
+        "site": "Axillae",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2077": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Neck side",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2221": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "Pruritic purplish red rash.",
+        "morphology": "Red,nonscaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "51",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2677": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "streaky vesicular eruption",
+        "morphology": "Vesiculobullous",
+        "site": "Abdomen",
+        "sex": "F",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Kiran Nabar"
+    },
+    "2678": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "red scaly lesions",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Kiran Nabar"
+    },
+    "4940": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "erythematous scaly",
+        "morphology": "Red,scaly",
+        "site": "Genital",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Kiran Nabar"
+    },
+    "4943": {
+        "diagnosis": "Allergic contact dermatitis",
+        "description": "pruritic linear papulovesicular eruption",
+        "morphology": "Linear",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Kiran Nabar"
+    },
+    "719": {
+        "diagnosis": "Aquagenic urticaria",
+        "description": "A piece of cloth soaked in tap water applied to the skin for a few minutes",
+        "morphology": "Red,nonscaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "607": {
+        "diagnosis": "Asteatotic eczema",
+        "description": "Asteatotic eczema on lower extremity",
+        "morphology": "Crusts",
+        "site": "Ankle",
+        "sex": "M",
+        "age": "65",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "98": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Red itchy  scaly plaques",
+        "morphology": "Plaque",
+        "site": "Popliteal",
+        "sex": "M",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "171": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "erythema and scaling",
+        "morphology": "Excoriation",
+        "site": "Popliteal",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "180": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Erythema papules and excoriations",
+        "morphology": "Excoriation",
+        "site": "Back",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "1113": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Erythematous scaly eczematous rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "7",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1150": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Lichenified eczematous rash.",
+        "morphology": "Lichenification",
+        "site": "Face",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1487": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Lichenified plaques and excoriations.",
+        "morphology": "Lichenification",
+        "site": "Face",
+        "sex": "M",
+        "age": "68",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1658": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Red scaly rash.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1832": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Subacute dermatitis.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2275": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Dry scaly rash.",
+        "morphology": "Scales",
+        "site": "Face",
+        "sex": "M",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2521": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Childhood atopic dermatitis.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4728": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Pruritic rash.",
+        "morphology": "Red,scaly",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4895": {
+        "diagnosis": "Atopic dermatitis",
+        "description": "Thickened skin with linear rhytids",
+        "morphology": "Lichenification",
+        "site": "Eye",
+        "sex": "M",
+        "age": "36",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "231": {
+        "diagnosis": "Atopic dermatitis with cataract",
+        "description": "Eczematous plaques over the forearms",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "233": {
+        "diagnosis": "Atopic dermatitis with cataract",
+        "description": "Itchy papules and plaques",
+        "morphology": "Plaque",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "956": {
+        "diagnosis": "Berloque dermatitis",
+        "description": "Unilateral hyperpigmented patches affecting the side of the face, neck and chest V-region",
+        "morphology": "Hyperpigmentation",
+        "site": "Face",
+        "sex": "M",
+        "age": "11",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4756": {
+        "diagnosis": "Berloque dermatitis",
+        "description": "Enter Description",
+        "morphology": "Macule brown",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Jorge Lopez-Granja"
+    },
+    "696": {
+        "diagnosis": "Bullous impetigo",
+        "description": "Intact and ruptured bullae",
+        "morphology": "Blisters",
+        "site": "Arm,forearm",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "822": {
+        "diagnosis": "Bullous impetigo",
+        "description": "Bullous impetigo",
+        "morphology": "Blisters",
+        "site": "Face",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Chong Yew Thong"
+    },
+    "1125": {
+        "diagnosis": "Bullous impetigo",
+        "description": "Small blisters on an erythematous bases and erosions.",
+        "morphology": "Blisters",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1363": {
+        "diagnosis": "Bullous impetigo",
+        "description": "Superficial pustules with exfoliation.",
+        "morphology": "Pustules",
+        "site": "Neck front",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1751": {
+        "diagnosis": "Bullous impetigo",
+        "description": "Blisters and erosions.",
+        "morphology": "Blisters",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1995": {
+        "diagnosis": "Bullous impetigo",
+        "description": "Flaccid blisters.",
+        "morphology": "Blisters",
+        "site": "Back",
+        "sex": "M",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2592": {
+        "diagnosis": "Bullous impetigo",
+        "description": "Pustules and erosions.",
+        "morphology": "Pustules",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "538": {
+        "diagnosis": "Bullous scabies",
+        "description": "Bullae over scabies prone sites",
+        "morphology": "Blisters",
+        "site": "Foot,dorsum",
+        "sex": "F",
+        "age": "7",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "220": {
+        "diagnosis": "Cellulitis",
+        "description": "Tender oedematous area on leg",
+        "morphology": "Vesicles",
+        "site": "Leg",
+        "sex": "M",
+        "age": "42",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "289": {
+        "diagnosis": "Cellulitis",
+        "description": "Red hot tender toe",
+        "morphology": "Red,nonscaly",
+        "site": "Toes",
+        "sex": "F",
+        "age": "59",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "471": {
+        "diagnosis": "Cellulitis",
+        "description": "Erythematous tender swelling",
+        "morphology": "Red all over",
+        "site": "Leg",
+        "sex": "M",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "2515": {
+        "diagnosis": "Cellulitis",
+        "description": "Traumatic ecthyma and periorbial swelling",
+        "morphology": "Swelling",
+        "site": "Face",
+        "sex": "M",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "1686": {
+        "diagnosis": "Cement dermatitis",
+        "description": "Red scaly fissured hands.",
+        "morphology": "Red,scaly",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2575": {
+        "diagnosis": "Cement dermatitis",
+        "description": "Papulovesicular rash on background of erythema.",
+        "morphology": "Blisters",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2103": {
+        "diagnosis": "Cement dermatitis",
+        "description": "Itchy red scaly dermatitis.",
+        "morphology": "Red,scaly",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "738": {
+        "diagnosis": "Cholinergic Urticaria",
+        "description": "Urticarial papules and plaques",
+        "morphology": "Papules,red",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Kiran Nabar"
+    },
+    "1695": {
+        "diagnosis": "Chondrodermatitis nodularis helicis",
+        "description": "Painful keratotic papule.",
+        "morphology": "Papules,skin coloured",
+        "site": "Ear",
+        "sex": "M",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "223": {
+        "diagnosis": "Chronic actinic dermatitis",
+        "description": "lichenified papules and plaques",
+        "morphology": "Plaque",
+        "site": "Forehead",
+        "sex": "M",
+        "age": "70",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "464": {
+        "diagnosis": "Chronic actinic dermatitis",
+        "description": "Symmetric red scaly plaques",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1597": {
+        "diagnosis": "Chronic actinic dermatitis",
+        "description": "Chronic lichenified red scaly rash.",
+        "morphology": "Lichenification",
+        "site": "Face",
+        "sex": "M",
+        "age": "70",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "723": {
+        "diagnosis": "Chronic Pustular psoriasis of pregnancy",
+        "description": "pustules present over surface of erythematous patch",
+        "morphology": "Pustules",
+        "site": "Thigh",
+        "sex": "F",
+        "age": "19",
+        "type": "Clinical",
+        "submitted by": "Karumuri Siva Rami Reddy"
+    },
+    "462": {
+        "diagnosis": "Cold urticaria",
+        "description": "Itchy swelling on the forearm",
+        "morphology": "Swelling",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "611": {
+        "diagnosis": "Contact dermatitis allergic",
+        "description": "Vesicles,edema,oozing and crusts",
+        "morphology": "Vesicles",
+        "site": "Hand,palm",
+        "sex": "F",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "730": {
+        "diagnosis": "Contact dermatitis allergic",
+        "description": "Pruritic vesicular eruptions",
+        "morphology": "Vesicles",
+        "site": "Toes",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Kiran Nabar"
+    },
+    "787": {
+        "diagnosis": "Contact dermatitis allergic",
+        "description": "Swollen eyebrow and lid",
+        "morphology": "Swelling",
+        "site": "Eye",
+        "sex": "F",
+        "age": "57",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "1062": {
+        "diagnosis": "Contact dermatitis allergic",
+        "description": "Erythema, edema, and blistering",
+        "morphology": "Blisters",
+        "site": "Ankle",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1507": {
+        "diagnosis": "Contact dermatitis allergic",
+        "description": "hyperpigmented and scaly plaque",
+        "morphology": "Hyperpigmentation",
+        "site": "Foot,dorsum",
+        "sex": "M",
+        "age": "33",
+        "type": "Clinical",
+        "submitted by": "alaa saad"
+    },
+    "2125": {
+        "diagnosis": "Contact dermatitis allergic",
+        "description": "Red swollen face.",
+        "morphology": "Red,nonscaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4927": {
+        "diagnosis": "Contact dermatitis allergic",
+        "description": "Blisters on a red itchy base",
+        "morphology": "Blisters",
+        "site": "Ankle",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "848": {
+        "diagnosis": "Contact dermatitis irritant",
+        "description": "Result after one application",
+        "morphology": "Red,scaly",
+        "site": "Leg",
+        "sex": "F",
+        "age": "22",
+        "type": "Clinical",
+        "submitted by": "Jorge Lopez-Granja"
+    },
+    "2120": {
+        "diagnosis": "Contact dermatitis irritant",
+        "description": "Severe dermatitis reaction.",
+        "morphology": "Crusts",
+        "site": "Perioral",
+        "sex": "F",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "3710": {
+        "diagnosis": "Contact dermatitis irritant",
+        "description": "Well-demarcated red scaly rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "235": {
+        "diagnosis": "Dermatitis artefacta",
+        "description": "Linear excoriations",
+        "morphology": "Excoriation",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "463": {
+        "diagnosis": "Dermatitis artefacta",
+        "description": "Linear ulcer",
+        "morphology": "Ulcer",
+        "site": "Back",
+        "sex": "M",
+        "age": "61",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "631": {
+        "diagnosis": "Dermatitis artefacta",
+        "description": "Self-inflicted cigarette burns, done as a means of  love-grief or love-regret.",
+        "morphology": "Atrophy",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "19",
+        "type": "Clinical",
+        "submitted by": "Mehravaran Mehrdad"
+    },
+    "930": {
+        "diagnosis": "Dermatitis artefacta",
+        "description": "Excoriations",
+        "morphology": "Excoriation",
+        "site": "All Sites",
+        "sex": "M",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "2455": {
+        "diagnosis": "Dermatitis artefacta",
+        "description": "Factitious ulcer.",
+        "morphology": "Ulcer",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "218": {
+        "diagnosis": "Dermatitis cruris pustulosa et atrophicans (DCPA)",
+        "description": "Itchy recurrent pustules",
+        "morphology": "Pustules",
+        "site": "Leg",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "505": {
+        "diagnosis": "Dermatitis herpetiformis",
+        "description": "Grouped vesicles and excoriations",
+        "morphology": "Excoriation",
+        "site": "Knee",
+        "sex": "F",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1121": {
+        "diagnosis": "Dermatitis herpetiformis",
+        "description": "Grouped excoriated papulovesicles, erosions and tense blisters.",
+        "morphology": "Blisters",
+        "site": "All Sites",
+        "sex": "M",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1360": {
+        "diagnosis": "Dermatitis herpetiformis",
+        "description": "Excoriated papulo-vesicular rash.",
+        "morphology": "Excoriation",
+        "site": "Knee",
+        "sex": "M",
+        "age": "11",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1814": {
+        "diagnosis": "Dermatitis herpetiformis",
+        "description": "Excoriated papulovesicular rash.",
+        "morphology": "Blisters",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "27",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2676": {
+        "diagnosis": "Dermatitis herpetiformis",
+        "description": "vesicles",
+        "morphology": "Vesiculobullous",
+        "site": "Face",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Kiran Nabar"
+    },
+    "3705": {
+        "diagnosis": "Dermatitis herpetiformis",
+        "description": "Bilateral symmetrical excoriated rash.",
+        "morphology": "Excoriation",
+        "site": "Elbow",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "608": {
+        "diagnosis": "Dermatophytosis",
+        "description": "Tinea manuum",
+        "morphology": "Red,scaly",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "555": {
+        "diagnosis": "Discoid eczema",
+        "description": "Red scaly discoid plaques",
+        "morphology": "Red,scaly",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "875": {
+        "diagnosis": "Discoid eczema",
+        "description": "Enter Description",
+        "morphology": "Excoriation",
+        "site": "Leg",
+        "sex": "F",
+        "age": "47",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "885": {
+        "diagnosis": "Discoid eczema",
+        "description": "A round lesion over dorsum.",
+        "morphology": "Skin coloured,scaly",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "1096": {
+        "diagnosis": "Discoid eczema",
+        "description": "Mutiple, bilateral, discoid, erythematous, crusted plaques.",
+        "morphology": "Plaque",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "14",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1135": {
+        "diagnosis": "Discoid eczema",
+        "description": "Crusted and sacly erythematous plaques.",
+        "morphology": "Crusts",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1246": {
+        "diagnosis": "Discoid eczema",
+        "description": "Dull red plaques.",
+        "morphology": "Plaque",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1260": {
+        "diagnosis": "Discoid eczema",
+        "description": "Red scaly plaques.",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "F",
+        "age": "11",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1261": {
+        "diagnosis": "Discoid eczema",
+        "description": "Red Plaques.",
+        "morphology": "Plaque",
+        "site": "Limbs",
+        "sex": "F",
+        "age": "66",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1455": {
+        "diagnosis": "Discoid eczema",
+        "description": "Erythematous scaly and crusted patch.",
+        "morphology": "Red,scaly",
+        "site": "Leg",
+        "sex": "M",
+        "age": "15",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1718": {
+        "diagnosis": "Discoid eczema",
+        "description": "Pruritic erythematous rounded plaques.",
+        "morphology": "Plaque",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1740": {
+        "diagnosis": "Discoid eczema",
+        "description": "Discoid erythematous oozy plaque.",
+        "morphology": "Plaque",
+        "site": "Foot,dorsum",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1828": {
+        "diagnosis": "Discoid eczema",
+        "description": "Erythematous scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "85",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1855": {
+        "diagnosis": "Discoid eczema",
+        "description": "Erythematous nummular plaques.",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "M",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2569": {
+        "diagnosis": "Discoid eczema",
+        "description": "Nummular red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Leg",
+        "sex": "F",
+        "age": "2",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2625": {
+        "diagnosis": "Discoid eczema",
+        "description": "Pruritic nummular scaly plaques.",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "F",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4720": {
+        "diagnosis": "Discoid eczema",
+        "description": "Impetiginized crusted plaque.",
+        "morphology": "Crusts",
+        "site": "Calf",
+        "sex": "F",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4931": {
+        "diagnosis": "Discoid eczema",
+        "description": "Oozy plaques",
+        "morphology": "Red,scaly",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "882": {
+        "diagnosis": "discoid lupus erythematosus",
+        "description": "discoid lupus erythematosus",
+        "morphology": "Plaque",
+        "site": "Eyelids",
+        "sex": "M",
+        "age": "37",
+        "type": "Clinical",
+        "submitted by": "khalil hamedpoor"
+    },
+    "999": {
+        "diagnosis": "discoid lupus erythematosus",
+        "description": "Multiple erythematous oval plaques involving the butterfly region of the face.",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "M",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "257": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly annular lesions with scarring",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "M",
+        "age": "72",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "259": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Firm red scaly plaques on the face",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "39",
+        "type": "Clinical & Histology",
+        "submitted by": "Ian McColl"
+    },
+    "469": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Scarring alopecia",
+        "morphology": "Atrophy",
+        "site": "Scalp",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "933": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "",
+        "morphology": "Plaque",
+        "site": "Nose",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "971": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Erythematous plaque with central atrophy and depigmentation, and peripheral hyperpigmentation",
+        "morphology": "Plaque",
+        "site": "Scalp",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1154": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Dusky red scaly plaques",
+        "morphology": "Plaque",
+        "site": "Finger",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1198": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Dull red swollen plaques.",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "F",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1238": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly plaques.",
+        "morphology": "Plaque",
+        "site": "Nose",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1287": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Nose",
+        "sex": "M",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1322": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "46",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1329": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1395": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "22",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1432": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "erythematous scaly plague with dyspigmented margin",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": ""
+    },
+    "1450": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly plaque.",
+        "morphology": "Plaque",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1476": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Hyperpigmented plaques.",
+        "morphology": "Hyperpigmentation",
+        "site": "Face",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1519": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Annular plaque with hyperpigmented center.",
+        "morphology": "Annular",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1598": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Erythematous butterfly rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "62",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1639": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Erythematous scaly plaque.",
+        "morphology": "Red,scaly",
+        "site": "Nose",
+        "sex": "M",
+        "age": "58",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1743": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly atrophic plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1748": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Erythematous scaly annular plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1768": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly plaques.",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "F",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1774": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Butterfly rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "19",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1778": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Postinflammatory dyspigmentation.",
+        "morphology": "Hypopigmentation",
+        "site": "Face",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1782": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Atrophic scars.",
+        "morphology": "Atrophy",
+        "site": "Face",
+        "sex": "F",
+        "age": "36",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1904": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red atrophic scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Eyelids",
+        "sex": "F",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1924": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly atrophic plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1947": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly atrophic plaques.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2148": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red plaque with scarring.",
+        "morphology": "Plaque",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2190": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly patches.",
+        "morphology": "Red,scaly",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2217": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Polycyclic red scaly plaque.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "54",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2255": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly atrophic plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "72",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2277": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Read scaly atrophic plaque.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2280": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "42",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2480": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Butterfly rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2542": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Annular red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "23",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2556": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Dark red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4739": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly rough-surfaced plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "58",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4762": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4814": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Photosensitive rash",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4882": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Dusky red scaly plaques",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4928": {
+        "diagnosis": "Discoid lupus erythematosus",
+        "description": "Scaly patch of follicular plugging scalp",
+        "morphology": "Follicular plugging",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "74": {
+        "diagnosis": "Dissecting cellulitis",
+        "description": "Edematous scalp with scarring",
+        "morphology": "Pustules",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "1187": {
+        "diagnosis": "Disseminated herpes zoster",
+        "description": "Clustered vesicles on erythematous base",
+        "morphology": "Vesicles",
+        "site": "Back",
+        "sex": "F",
+        "age": "70",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "578": {
+        "diagnosis": "Dyshidrotic eczema",
+        "description": "Multiple tense vesicles",
+        "morphology": "Vesiculobullous",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "4795": {
+        "diagnosis": "Eczema atopic dermatitis",
+        "description": "Chilblains-like eczema.",
+        "morphology": "Red,scaly",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "744": {
+        "diagnosis": "Eczema craquelé",
+        "description": "Dry polygonally fissured plaques",
+        "morphology": "Skin coloured,scaly",
+        "site": "Shins",
+        "sex": "M",
+        "age": "65",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "109": {
+        "diagnosis": "Eczema discoid",
+        "description": "Typical coin shaped lesions of discoid eczema",
+        "morphology": "Excoriation",
+        "site": "Leg",
+        "sex": "M",
+        "age": "54",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "391": {
+        "diagnosis": "Eczema herpeticum",
+        "description": "Grouped vesicles and pustules on the forehead and eyelids",
+        "morphology": "Pustules",
+        "site": "Forehead",
+        "sex": "M",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "475": {
+        "diagnosis": "Eczema herpeticum",
+        "description": "Vesicles and crusted erosions",
+        "morphology": "Vesicles",
+        "site": "Face",
+        "sex": "M",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "66": {
+        "diagnosis": "Eczema lichenified",
+        "description": "Lichenified skin from chronic rubbing",
+        "morphology": "Lichenification",
+        "site": "Leg",
+        "sex": "M",
+        "age": "65",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "784": {
+        "diagnosis": "Eczema of nipple and areola",
+        "description": "Weeping eczema with superadded staphylococcal infection",
+        "morphology": "Excoriation",
+        "site": "Breast",
+        "sex": "F",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "108": {
+        "diagnosis": "Eczema varicose",
+        "description": "Varicose eczema with ulceration",
+        "morphology": "Excoriation",
+        "site": "Leg",
+        "sex": "F",
+        "age": "70",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "179": {
+        "diagnosis": "Erythrodermic psoriasis",
+        "description": "Universal erythema with constant scaling",
+        "morphology": "Red all over",
+        "site": "Forehead",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "850": {
+        "diagnosis": "Erythrodermic psoriasis",
+        "description": "Diffuse erythema and scale",
+        "morphology": "Red,scaly",
+        "site": "Neck side",
+        "sex": "F",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1093": {
+        "diagnosis": "Erythrodermic psoriasis",
+        "description": "Erythematous plaques covered with white-silvery scales.",
+        "morphology": "Red all over",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "56",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2485": {
+        "diagnosis": "Erythrodermic psoriasis",
+        "description": "Red and sacaly",
+        "morphology": "Red,scaly",
+        "site": "Back",
+        "sex": "M",
+        "age": "58",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "835": {
+        "diagnosis": "Genital herpes",
+        "description": "Cluster of vesicles on erythematous base",
+        "morphology": "Vesicles",
+        "site": "Penis",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1351": {
+        "diagnosis": "Hair dye dermatitis",
+        "description": "swelling",
+        "morphology": "Swelling",
+        "site": "Eyelids",
+        "sex": "F",
+        "age": "37",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "2489": {
+        "diagnosis": "Hair dye dermatitis",
+        "description": "Red rash with burning sensation.",
+        "morphology": "Red,nonscaly",
+        "site": "Scalp",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2520": {
+        "diagnosis": "Hair dye dermatitis",
+        "description": "Red swollen face.",
+        "morphology": "Red,nonscaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "404": {
+        "diagnosis": "Herpes genitalis",
+        "description": "The grouped vesicles have ruptured leaving small erosions",
+        "morphology": "Vesicles",
+        "site": "Penis",
+        "sex": "M",
+        "age": "23",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "759": {
+        "diagnosis": "Herpes genitalis",
+        "description": "superficial,",
+        "morphology": "Ulcer",
+        "site": "Genital",
+        "sex": "F",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Karumuri Siva Rami Reddy"
+    },
+    "779": {
+        "diagnosis": "Herpes genitalis",
+        "description": "grouped,vescicles",
+        "morphology": "Vesicles",
+        "site": "Penis",
+        "sex": "M",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Karumuri Siva Rami Reddy"
+    },
+    "1914": {
+        "diagnosis": "Herpes genitalis",
+        "description": "multiple,discrete,vesicles,",
+        "morphology": "Vesiculobullous",
+        "site": "Genital",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Karumuri Siva Rami Reddy"
+    },
+    "2130": {
+        "diagnosis": "Herpes genitalis",
+        "description": "Grouped superficial ulcers.",
+        "morphology": "Ulcer",
+        "site": "Penis",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2405": {
+        "diagnosis": "Herpes gestationis",
+        "description": "Erythematous plaques consisting of  intact and crusted vesicles",
+        "morphology": "Vesiculobullous",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "718": {
+        "diagnosis": "Herpes labialis",
+        "description": "Clustered vesicles on erythematous base",
+        "morphology": "Vesicles",
+        "site": "Lips",
+        "sex": "F",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1434": {
+        "diagnosis": "Herpes labialis",
+        "description": "Grouped vesicles on erythematous skin",
+        "morphology": "Vesicles",
+        "site": "Lips",
+        "sex": "M",
+        "age": "19",
+        "type": "Clinical",
+        "submitted by": "alaa saad"
+    },
+    "880": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped vesicles on the areola",
+        "morphology": "Vesicles",
+        "site": "Breast",
+        "sex": "F",
+        "age": "29",
+        "type": "Clinical",
+        "submitted by": "khalil hamedpoor"
+    },
+    "995": {
+        "diagnosis": "Herpes simplex",
+        "description": "Unilateral grouped vesiculopustular lesions with complicating cellulitis around the eye.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "M",
+        "age": "16",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1160": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped vesicles.",
+        "morphology": "Vesicles",
+        "site": "Arm,forearm",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1341": {
+        "diagnosis": "Herpes simplex",
+        "description": "Vesiculopustular crusted rash.",
+        "morphology": "Blisters",
+        "site": "Ear",
+        "sex": "F",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1364": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped vesicles.",
+        "morphology": "Blisters",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "31",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1441": {
+        "diagnosis": "Herpes simplex",
+        "description": "group of vesicles on erythematous base",
+        "morphology": "Vesicles",
+        "site": "Tongue",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": ""
+    },
+    "1729": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped vesicles.",
+        "morphology": "Blisters",
+        "site": "Eyelids",
+        "sex": "F",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1772": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped crusted lesions.",
+        "morphology": "Crusts",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1793": {
+        "diagnosis": "Herpes simplex",
+        "description": "Crusted lesions.",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1901": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped vesicles.",
+        "morphology": "Grouped",
+        "site": "Arm,upper",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1967": {
+        "diagnosis": "Herpes simplex",
+        "description": "Enter Description",
+        "morphology": "Grouped",
+        "site": "Lips",
+        "sex": "M",
+        "age": "16",
+        "type": "Clinical",
+        "submitted by": "Ouy jacksonton"
+    },
+    "2146": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped pustules.",
+        "morphology": "Pustules",
+        "site": "Arm,forearm",
+        "sex": "M",
+        "age": "24",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2191": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped blisters.",
+        "morphology": "Grouped",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2224": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped crusted ruptured vesicles.",
+        "morphology": "Grouped",
+        "site": "Arm,upper",
+        "sex": "M",
+        "age": "47",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2241": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped vesicles.",
+        "morphology": "Blisters",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2247": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped blisters and pustules.",
+        "morphology": "Blisters",
+        "site": "Ear",
+        "sex": "M",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2484": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped vesicles",
+        "morphology": "Vesicles",
+        "site": "Nose",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "4789": {
+        "diagnosis": "Herpes simplex",
+        "description": "Grouped vesicles.",
+        "morphology": "Vesicles",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "47",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "126": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Early redness and vesicles on one side of the back",
+        "morphology": "Vesicles",
+        "site": "Back",
+        "sex": "M",
+        "age": "74",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "127": {
+        "diagnosis": "Herpes Zoster",
+        "description": "",
+        "morphology": "Crusts",
+        "site": "Neck nape",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "205": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Dermatomal eruption",
+        "morphology": "Vesicles",
+        "site": "Back",
+        "sex": "M",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "216": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Crusted plaques",
+        "morphology": "Crusts",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "65",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "217": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Classic dermatomal distribution",
+        "morphology": "Vesicles",
+        "site": "Back",
+        "sex": "F",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "593": {
+        "diagnosis": "Herpes Zoster",
+        "description": "dermatomal distribution",
+        "morphology": "Vesicles",
+        "site": "Back",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Yahia Albaili"
+    },
+    "605": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Right sided facial paralysis",
+        "morphology": "Blisters",
+        "site": "Face",
+        "sex": "F",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Surajit Nayak"
+    },
+    "624": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Multiple non-painful groups of vesicles,  on an erythematous base.",
+        "morphology": "Blisters",
+        "site": "Chest",
+        "sex": "M",
+        "age": "23",
+        "type": "Clinical",
+        "submitted by": "Mehravaran Mehrdad"
+    },
+    "625": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Multiple non-painful groups of vesicles,  on an erythematous base.",
+        "morphology": "Blisters",
+        "site": "Forehead",
+        "sex": "M",
+        "age": "8",
+        "type": "Clinical",
+        "submitted by": "Mehravaran Mehrdad"
+    },
+    "903": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Multiple grouped vesicles on erythematous base",
+        "morphology": "Vesicles",
+        "site": "Buttocks",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1079": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Grouped blisters on an erythematous plaque.",
+        "morphology": "Blisters",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1120": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Typical zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Chest",
+        "sex": "M",
+        "age": "24",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1462": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Hemorrhagic zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Limbs",
+        "sex": "M",
+        "age": "2",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1473": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Grouped vesicles on erythematous skin",
+        "morphology": "Vesicles",
+        "site": "Buttocks",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "alaa saad"
+    },
+    "1502": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Arm,forearm",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1629": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Penis",
+        "sex": "M",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1682": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Healing Phase of Herpes Zoster Ophthalmicus showing crusting & erosions",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "M",
+        "age": "70",
+        "type": "Clinical",
+        "submitted by": "ABDUL HAMEED"
+    },
+    "1794": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Grouped vesicles on an erythematous base.",
+        "morphology": "Blisters",
+        "site": "Chest",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1861": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Chest",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1937": {
+        "diagnosis": "Herpes Zoster",
+        "description": "ulcerated,crusted, lesions",
+        "morphology": "Erosions",
+        "site": "Gluteal cleft",
+        "sex": "M",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Karumuri Siva Rami Reddy"
+    },
+    "1952": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1970": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Axillae",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2192": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Shoulder",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2242": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Grouped pustules.",
+        "morphology": "Pustules",
+        "site": "Back",
+        "sex": "M",
+        "age": "15",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2445": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Grouped painful blisters on erythematous base",
+        "morphology": "Blisters",
+        "site": "Trunk",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "2559": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Zosteriform vesicular rash.",
+        "morphology": "Blisters",
+        "site": "Buttocks",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2585": {
+        "diagnosis": "Herpes Zoster",
+        "description": "Zosteriform rash.",
+        "morphology": "Blisters",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "67",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1882": {
+        "diagnosis": "Herpes Zoster Opthalmicus",
+        "description": "Vesicular lesions",
+        "morphology": "Vesicles",
+        "site": "Face",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Rajeswar Kunchakuri"
+    },
+    "55": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Crusted plaques",
+        "morphology": "Crusts",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "877": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "a red sore on this young child's face, around the mouth",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "F",
+        "age": "2",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "890": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "yellowish-brown crust",
+        "morphology": "Crusts",
+        "site": "Arm,upper",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "1019": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Erythematous, oozy and crusted lesions in periorificial sites.",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1052": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Erythematous patches covered with dirty-yellow crusts.",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "F",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1053": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Crusted patches around the nose and mouth.",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1131": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Crusted patches around the mouth.",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1298": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Periorificial crusted lesion.",
+        "morphology": "Crusts",
+        "site": "Nose",
+        "sex": "F",
+        "age": "2",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1471": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Periorificial crusted patches.",
+        "morphology": "Crusts",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1647": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Honey-colored crust.",
+        "morphology": "Crusts",
+        "site": "Perioral",
+        "sex": "F",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1650": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Oozy and crusted patches.",
+        "morphology": "Crusts",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1719": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Crusted erosions and bullae",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "M",
+        "age": "2",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1783": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Honey-colored crusts.",
+        "morphology": "Crusts",
+        "site": "Nose",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1863": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Honey-colored crusts.",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "F",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2435": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Crusted patches.",
+        "morphology": "Crusts",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "2",
+        "type": "Clinical",
+        "submitted by": "Khalil Al-Hamdi"
+    },
+    "2502": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Periorificial honey-colored crusts.",
+        "morphology": "Crusts",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2584": {
+        "diagnosis": "Impetigo contagiosa",
+        "description": "Perorificial crusted patches.",
+        "morphology": "Crusts",
+        "site": "Periorbital",
+        "sex": "M",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1648": {
+        "diagnosis": "Impetigo herpetiformis",
+        "description": "Pustular rash.",
+        "morphology": "Pustules",
+        "site": "Neck side",
+        "sex": "F",
+        "age": "24",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2204": {
+        "diagnosis": "Impetigo herpetiformis",
+        "description": "Grouped pustules.",
+        "morphology": "Pustules",
+        "site": "Abdomen",
+        "sex": "F",
+        "age": "29",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2395": {
+        "diagnosis": "Impetigo herpetiformis",
+        "description": "Innumerable pustules on erythematous base.",
+        "morphology": "Pustules",
+        "site": "Abdomen",
+        "sex": "F",
+        "age": "37",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2117": {
+        "diagnosis": "Infantile acne",
+        "description": "Papulopustular rash.",
+        "morphology": "Papules",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1128": {
+        "diagnosis": "Infantile atopic eczema",
+        "description": "Subacute eczematous rash.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2335": {
+        "diagnosis": "Infantile atopic eczema",
+        "description": "Bilateral red scaly rash.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2640": {
+        "diagnosis": "Infantile atopic eczema",
+        "description": "Bilateral red scaly dermatitis.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4717": {
+        "diagnosis": "Infantile atopic eczema",
+        "description": "Excoriated red rash.",
+        "morphology": "Excoriation",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "557": {
+        "diagnosis": "Infantile seborrheic dermatitis",
+        "description": "Greasy plaques",
+        "morphology": "Red,scaly",
+        "site": "Neck side",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "907": {
+        "diagnosis": "Infantile seborrheic dermatitis",
+        "description": "scaly scalp",
+        "morphology": "Crusts",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "2093": {
+        "diagnosis": "Infantile seborrheic dermatitis",
+        "description": "Yellowish greasy scales.",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4716": {
+        "diagnosis": "Infantile seborrheic dermatitis",
+        "description": "Yellow scales.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1984": {
+        "diagnosis": "Infected eczema",
+        "description": "Oozy crusted plaques.",
+        "morphology": "Plaque",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2239": {
+        "diagnosis": "Infective eczema",
+        "description": "Dermatitis reaction.",
+        "morphology": "Red,scaly",
+        "site": "Ear",
+        "sex": "F",
+        "age": "24",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "559": {
+        "diagnosis": "Lichenoid pigmented purpuric dermatitis of Gougerot-Blum",
+        "description": "Lichenoid papules and purpuric macules and patches",
+        "morphology": "Purpura",
+        "site": "Ankle",
+        "sex": "M",
+        "age": "33",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "365": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "Red scaly plaque",
+        "morphology": "Red,scaly",
+        "site": "Lips",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "577": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "Crusted scaly plaques",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "958": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "Well-defined hypopgmented scaly eczematous perioral rash",
+        "morphology": "Hypopigmentation",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "8",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1418": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "erythematous and scaly plaque",
+        "morphology": "Red,scaly",
+        "site": "Perioral",
+        "sex": "F",
+        "age": "9",
+        "type": "Clinical",
+        "submitted by": "alaa saad"
+    },
+    "1892": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "Circumoral dryness and scaling.",
+        "morphology": "Scales",
+        "site": "Lips",
+        "sex": "M",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1940": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "Circumoral dryness and hyperpigmentation.",
+        "morphology": "Hyperpigmentation",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2266": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "Erythematous scaly plaque",
+        "morphology": "Red,scaly",
+        "site": "Lips",
+        "sex": "M",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "2377": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "",
+        "morphology": "Scales",
+        "site": "Lips",
+        "sex": "F",
+        "age": "11",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2387": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "Slightly red scaly dermatitis.",
+        "morphology": "Scales",
+        "site": "Perioral",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2422": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "Well-demarcated red and hyperpigmented scaly rash.",
+        "morphology": "Hyperpigmentation",
+        "site": "Perioral",
+        "sex": "F",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Khalil Al-Hamdi"
+    },
+    "2687": {
+        "diagnosis": "Lip licker's dermatitis",
+        "description": "Circumoral hyperpigmented area.",
+        "morphology": "Hyperpigmentation",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "14",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "323": {
+        "diagnosis": "Lupus Profundus",
+        "description": "Atrophic plaques",
+        "morphology": "Atrophy",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1196": {
+        "diagnosis": "Lupus Profundus",
+        "description": "",
+        "morphology": "Unusual shapes",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4891": {
+        "diagnosis": "Lupus Profundus",
+        "description": "Involved side",
+        "morphology": "Nodule",
+        "site": "Face",
+        "sex": "F",
+        "age": "24",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "317": {
+        "diagnosis": "Lupus vulgaris",
+        "description": "Red brown infiltrated plaque on the face",
+        "morphology": "Plaque",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "47",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "335": {
+        "diagnosis": "Lupus vulgaris",
+        "description": "A large erythematous indurated plaque covering the right mandibular region",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "M",
+        "age": "56",
+        "type": "Clinical",
+        "submitted by": "Irfan Bari"
+    },
+    "408": {
+        "diagnosis": "Lupus vulgaris",
+        "description": "A large plaque with central scarring",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "M",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Irfan Bari"
+    },
+    "572": {
+        "diagnosis": "Lupus vulgaris",
+        "description": "erythematous plaque type skin lesion on central face having a butterfly pattern distribution",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "M",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Surajit Nayak"
+    },
+    "591": {
+        "diagnosis": "Lupus vulgaris",
+        "description": "Red brown scaly nodules and plaques",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1575": {
+        "diagnosis": "Lupus vulgaris",
+        "description": "Red scaly plaques with atrophy.",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1908": {
+        "diagnosis": "Lupus vulgaris",
+        "description": "Red scaly plaque.",
+        "morphology": "Plaque",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "8",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2107": {
+        "diagnosis": "Lupus vulgaris",
+        "description": "Erythematous infiltrative plaques.",
+        "morphology": "Nodule",
+        "site": "Face",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2319": {
+        "diagnosis": "Lupus vulgaris",
+        "description": "Atrophic plaques with telangiectasis.",
+        "morphology": "Atrophy",
+        "site": "central necrosis, band of epithelioid macrophages and Langhans giant cells, rim of lymphocytes. No acid fast bacilli detected in skin biopsy.",
+        "sex": "F",
+        "age": "central necrosis, band of epithelioid macrophages and Langhans giant cells, rim of lymphocytes. No acid fast bacilli detected in skin biopsy.",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "558": {
+        "diagnosis": "Napkin dermatitis",
+        "description": "Macerated plaques with satellite lesions",
+        "morphology": "Erosions",
+        "site": "Groin infant",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1399": {
+        "diagnosis": "Napkin dermatitis",
+        "description": "Erythematous patches superseded with pustules.",
+        "morphology": "Pustules",
+        "site": "Groin infant",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1010": {
+        "diagnosis": "Neonatal acne",
+        "description": "Papulopustules on the cheeks of a neonate.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1094": {
+        "diagnosis": "Neonatal acne",
+        "description": "Inflammatory papulo-pustular lesions on the cheeks of a neonate.",
+        "morphology": "Papules",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2434": {
+        "diagnosis": "Neonatal acne",
+        "description": "Papulopustular rash.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Khalil Al-Hamdi"
+    },
+    "817": {
+        "diagnosis": "Norwegian Scabies",
+        "description": "Hyperkeratotic and Crusted lesions on palms",
+        "morphology": "Keratoderma",
+        "site": "Hand,palm",
+        "sex": "F",
+        "age": "80",
+        "type": "Clinical",
+        "submitted by": "Tuseef Kamran"
+    },
+    "4946": {
+        "diagnosis": "Ostraceous psoriasis",
+        "description": "Hyperkeratotic coarse adherent scaly plaque",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "2285": {
+        "diagnosis": "Paederus dermatitis",
+        "description": "Erythematous vesiculopustular eruption associated with central necrosis",
+        "morphology": "Vesicles",
+        "site": "Neck side",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "222": {
+        "diagnosis": "Papular urticaria",
+        "description": "Infected papular urticaria",
+        "morphology": "Crusts",
+        "site": "Leg",
+        "sex": "M",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "859": {
+        "diagnosis": "Papular urticaria",
+        "description": "crops of very itchy red bumps",
+        "morphology": "Macules",
+        "site": "Leg",
+        "sex": "F",
+        "age": "44",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "874": {
+        "diagnosis": "Papular urticaria",
+        "description": "very itchy papules with erythema",
+        "morphology": "Papules",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "42",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "905": {
+        "diagnosis": "Papular urticaria",
+        "description": "Enter Description",
+        "morphology": "Grouped",
+        "site": "Flexures",
+        "sex": "F",
+        "age": "43",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "1070": {
+        "diagnosis": "Papular urticaria",
+        "description": "Urticated papule with a central punctum.",
+        "morphology": "Papules,red",
+        "site": "Knee",
+        "sex": "F",
+        "age": "54",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "158": {
+        "diagnosis": "Parapsoriasis",
+        "description": "Finger like red scaly patches",
+        "morphology": "Digitate",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "42",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "1394": {
+        "diagnosis": "Perioral dermatitis",
+        "description": "Erythematous papules and pustules",
+        "morphology": "Papules,red",
+        "site": "Face",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "2602": {
+        "diagnosis": "Perioral dermatitis",
+        "description": "Scaly papules",
+        "morphology": "Papules,red",
+        "site": "Chin",
+        "sex": "F",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "4747": {
+        "diagnosis": "Phototoxic dermatitis",
+        "description": "Localized bullous reaction.",
+        "morphology": "Blisters",
+        "site": "Shins",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "250": {
+        "diagnosis": "Phytophotodermatitis",
+        "description": "Streaking pigmentation on forearm",
+        "morphology": "Linear",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "1659": {
+        "diagnosis": "Phytophotodermatitis",
+        "description": "Perioral brownish discoloration.",
+        "morphology": "Hyperpigmentation",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4750": {
+        "diagnosis": "Phytophotodermatitis",
+        "description": "",
+        "morphology": "Hyperpigmentation",
+        "site": "Perioral",
+        "sex": "F",
+        "age": "22",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1018": {
+        "diagnosis": "Pityriasiform lichenoid eczema",
+        "description": "Hypopigmented plaques with follicular papules",
+        "morphology": "Papules,skin coloured",
+        "site": "Leg",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "175": {
+        "diagnosis": "Plant contact dermatitis",
+        "description": "Linear vesicles and blisters",
+        "morphology": "Linear",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "610": {
+        "diagnosis": "Plant contact dermatitis",
+        "description": "Acute onset of blisters on forearm",
+        "morphology": "Blisters",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "617": {
+        "diagnosis": "Plant contact dermatitis",
+        "description": "Flacid blisters on forearm",
+        "morphology": "Blisters",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical & Histology",
+        "submitted by": "Ian McColl"
+    },
+    "210": {
+        "diagnosis": "Pruritic urticarial papules and plaques of pregnancy",
+        "description": "Polymorphous papules and plaques",
+        "morphology": "Papules,red",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "390": {
+        "diagnosis": "Pruritic urticarial papules and plaques of pregnancy",
+        "description": "Itchy papules commencing in the stretch marks",
+        "morphology": "Papules,red",
+        "site": "Abdomen",
+        "sex": "F",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "824": {
+        "diagnosis": "Pruritic urticarial papules and plaques of pregnancy",
+        "description": "Enter Description",
+        "morphology": "All Morphologies",
+        "site": "Abdomen",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Yahia Albaili"
+    },
+    "1601": {
+        "diagnosis": "Pruritic Urticarial Papules and Plaques of Pregnancy (PUPPP)",
+        "description": "Pruritic erythematous papules.",
+        "morphology": "Papules,red",
+        "site": "Abdomen",
+        "sex": "F",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "57": {
+        "diagnosis": "Psoriasis",
+        "description": "Thick build up of scale on the heel",
+        "morphology": "Red,scaly",
+        "site": "Foot,sole",
+        "sex": "M",
+        "age": "64",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "72": {
+        "diagnosis": "Psoriasis",
+        "description": "Scaly patches on the dorsum of the foot",
+        "morphology": "Red,scaly",
+        "site": "Foot,dorsum",
+        "sex": "M",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "160": {
+        "diagnosis": "Psoriasis",
+        "description": "scaly plaques",
+        "morphology": "Plaque",
+        "site": "Elbow",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "673": {
+        "diagnosis": "Psoriasis",
+        "description": "Typical erythematous, symetrical, psoriatic plaques",
+        "morphology": "Papules,red",
+        "site": "Elbow",
+        "sex": "M",
+        "age": "36",
+        "type": "nummular (coin-like), serpiginous, and geographic. The plaques regress (either in response to therapy or spontaneously), they often begin to clear in the center while the disease persists at the edges; this leads to an annular pattern. Linear patterns may occur with physical trauma (positive Koebner phenomenon). Plaque psoriasis most commonly involved sites are the elbows and knees, lumbosacral area, intergluteal cleft and scalp. Although often without symptoms, plaques of psoriasis may be pruritic or painful.",
+        "submitted by": "Mehravaran Mehrdad"
+    },
+    "700": {
+        "diagnosis": "Psoriasis",
+        "description": "Silver scales on plaque",
+        "morphology": "Red,scaly",
+        "site": "Back",
+        "sex": "M",
+        "age": "29",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "705": {
+        "diagnosis": "Psoriasis",
+        "description": "Confluent red plaque",
+        "morphology": "Plaque",
+        "site": "Back",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "706": {
+        "diagnosis": "Psoriasis",
+        "description": "Widespread red plaques",
+        "morphology": "Plaque",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "52",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "826": {
+        "diagnosis": "Psoriasis",
+        "description": "",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Yahia Albaili"
+    },
+    "923": {
+        "diagnosis": "Psoriasis",
+        "description": "",
+        "morphology": "Plaque",
+        "site": "All Sites",
+        "sex": "M",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": ""
+    },
+    "940": {
+        "diagnosis": "Psoriasis",
+        "description": "Red scaly plaques",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "F",
+        "age": "65",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1023": {
+        "diagnosis": "Psoriasis",
+        "description": "Well-demarcated erythematous plaques covered with white-silvery scales.",
+        "morphology": "Plaque",
+        "site": "Limbs",
+        "sex": "M",
+        "age": "52",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1057": {
+        "diagnosis": "Psoriasis",
+        "description": "Red plaques covered with white silver scales.",
+        "morphology": "Plaque",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "23",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1061": {
+        "diagnosis": "Psoriasis",
+        "description": "Well-marginated erythematous scaly plaques with some peeling.",
+        "morphology": "Plaque",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "27",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1315": {
+        "diagnosis": "Psoriasis",
+        "description": "Red scaly plaque.",
+        "morphology": "Red,scaly",
+        "site": "Ear",
+        "sex": "F",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1431": {
+        "diagnosis": "Psoriasis",
+        "description": "Enter Description",
+        "morphology": "Fissures",
+        "site": "Heel",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": ""
+    },
+    "1535": {
+        "diagnosis": "Psoriasis",
+        "description": "Linear erythematous scaly plaque.",
+        "morphology": "Linear",
+        "site": "Leg",
+        "sex": "F",
+        "age": "11",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1665": {
+        "diagnosis": "Psoriasis",
+        "description": "Scaly patch with alopecia.",
+        "morphology": "Scales",
+        "site": "Scalp",
+        "sex": "F",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1838": {
+        "diagnosis": "Psoriasis",
+        "description": "scaly,plaques over dorsal penis and inner aspect of prepuce",
+        "morphology": "Scales",
+        "site": "Penis",
+        "sex": "M",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Karumuri Siva Rami Reddy"
+    },
+    "1998": {
+        "diagnosis": "Psoriasis",
+        "description": "Fiery-red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Leg",
+        "sex": "M",
+        "age": "54",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2055": {
+        "diagnosis": "Psoriasis",
+        "description": "Red scaly plaques.",
+        "morphology": "Plaque",
+        "site": "Shins",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2091": {
+        "diagnosis": "Psoriasis",
+        "description": "Well-demarcated red scaly plaque.",
+        "morphology": "Red,scaly",
+        "site": "Shins",
+        "sex": "M",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2097": {
+        "diagnosis": "Psoriasis",
+        "description": "Well-demarcated red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Ear",
+        "sex": "F",
+        "age": "13",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2360": {
+        "diagnosis": "Psoriasis",
+        "description": "Well-demarcated red scaly plaques",
+        "morphology": "Red,scaly",
+        "site": "Limbs",
+        "sex": "M",
+        "age": "60",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2400": {
+        "diagnosis": "Psoriasis",
+        "description": "Red scaly plaque.",
+        "morphology": "Red,scaly",
+        "site": "Ear",
+        "sex": "F",
+        "age": "22",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2403": {
+        "diagnosis": "Psoriasis",
+        "description": "Crustaceous psoriasis.",
+        "morphology": "Scales",
+        "site": "Foot,dorsum",
+        "sex": "M",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2460": {
+        "diagnosis": "Psoriasis",
+        "description": "Well-demarcated red scaly plaques",
+        "morphology": "Red,scaly",
+        "site": "Hands and Feet",
+        "sex": "F",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2600": {
+        "diagnosis": "Psoriasis",
+        "description": "Asymptomatic, well-demarcated, pinkish red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2606": {
+        "diagnosis": "Psoriasis",
+        "description": "Red scaly plaques.",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "M",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2626": {
+        "diagnosis": "Psoriasis",
+        "description": "Unilateral plaque psoriasis.",
+        "morphology": "Red,scaly",
+        "site": "Knee",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2638": {
+        "diagnosis": "Psoriasis",
+        "description": "Indurated, scaly plaques",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "M",
+        "age": "48",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "2641": {
+        "diagnosis": "Psoriasis",
+        "description": "Infantile psoriasis.",
+        "morphology": "Red,scaly",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4746": {
+        "diagnosis": "Psoriasis",
+        "description": "Well-demarcated red plaques.",
+        "morphology": "Red,scaly",
+        "site": "Shins",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4752": {
+        "diagnosis": "Psoriasis",
+        "description": "Well-demarcated erythematous scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4764": {
+        "diagnosis": "Psoriasis",
+        "description": "Unilateral red scaly plaque.",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4799": {
+        "diagnosis": "Psoriasis",
+        "description": "Classical psoriatic plaque.",
+        "morphology": "Red,scaly",
+        "site": "Leg",
+        "sex": "F",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4816": {
+        "diagnosis": "Psoriasis",
+        "description": "Red plaques with silvery scales.",
+        "morphology": "Red,scaly",
+        "site": "Umbilicus",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4827": {
+        "diagnosis": "Psoriasis",
+        "description": "Typical psoriatic plaques.",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "36",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1304": {
+        "diagnosis": "Psoriasis & Vitiligo",
+        "description": "Erythematous scaly rash on a vitiliginous background.",
+        "morphology": "Red,scaly",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "72",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2407": {
+        "diagnosis": "Psoriasis arthropathic",
+        "description": "Goint deformities.",
+        "morphology": "Red,scaly",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "58",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "93": {
+        "diagnosis": "Psoriasis erythrodermic",
+        "description": "Generalised redness and scale",
+        "morphology": "Red,scaly",
+        "site": "Back",
+        "sex": "M",
+        "age": "69",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "1871": {
+        "diagnosis": "Psoriasis follicular",
+        "description": "Spiky follicular papules.",
+        "morphology": "Papules,red",
+        "site": "Knee",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "92": {
+        "diagnosis": "Psoriasis guttate",
+        "description": "Multiple small raindrop like lesions",
+        "morphology": "Red,scaly",
+        "site": "Back",
+        "sex": "M",
+        "age": "27",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "809": {
+        "diagnosis": "Psoriasis guttate",
+        "description": "1cm to 2cm well defined plagues with silvery white scales",
+        "morphology": "Plaque",
+        "site": "Back",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Chong Yew Thong"
+    },
+    "1191": {
+        "diagnosis": "Psoriasis guttate",
+        "description": "Red papules covered with white silvery scales.",
+        "morphology": "Papules,red",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "36",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "305": {
+        "diagnosis": "Psoriasis Inversa",
+        "description": "Red scaly plaques",
+        "morphology": "Red,scaly",
+        "site": "Axillae",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "2215": {
+        "diagnosis": "Psoriasis Inversa",
+        "description": "Flexural psoriasis.",
+        "morphology": "Red,scaly",
+        "site": "Groin infant",
+        "sex": "M",
+        "age": "2",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2017": {
+        "diagnosis": "Psoriasis linear",
+        "description": "Linear red scaly rash.",
+        "morphology": "Linear",
+        "site": "Limbs",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "89": {
+        "diagnosis": "Psoriasis nails",
+        "description": "Dystrophic nails from psoriasis involving the nail matrx",
+        "morphology": "Nail dystrophy",
+        "site": "Nails",
+        "sex": "M",
+        "age": "54",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "336": {
+        "diagnosis": "Psoriasis nails",
+        "description": "Red scaly rash of fingertips and nail dystrophy",
+        "morphology": "Nail dystrophy",
+        "site": "Fingertips",
+        "sex": "M",
+        "age": "57",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "428": {
+        "diagnosis": "Psoriasis nails",
+        "description": "Pitting and separation of the nail plate from the nail bed",
+        "morphology": "Nail dystrophy",
+        "site": "Nails",
+        "sex": "M",
+        "age": "43",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "802": {
+        "diagnosis": "Psoriasis nails",
+        "description": "Nail pitting and oil drop patches",
+        "morphology": "Nail dystrophy",
+        "site": "Nails",
+        "sex": "M",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1569": {
+        "diagnosis": "Psoriasis nails",
+        "description": "Distal onycholysis.",
+        "morphology": "Nail dystrophy",
+        "site": "Nails",
+        "sex": "F",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2054": {
+        "diagnosis": "Psoriasis nails",
+        "description": "Nail thickening.",
+        "morphology": "Nail dystrophy",
+        "site": "Nails",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "132": {
+        "diagnosis": "Psoriasis palmoplantar",
+        "description": "Thick scaly plaques",
+        "morphology": "Plaque",
+        "site": "Hand,palm",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "169": {
+        "diagnosis": "Psoriasis palmoplantar",
+        "description": "scaly plaques",
+        "morphology": "Plaque",
+        "site": "Foot,sole",
+        "sex": "M",
+        "age": "41",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "595": {
+        "diagnosis": "Psoriasis palmoplantar",
+        "description": "Psoriatic plaques",
+        "morphology": "Red,scaly",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "44",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "2590": {
+        "diagnosis": "Psoriasis palmoplantar",
+        "description": "Well-demarcated red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "46",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2604": {
+        "diagnosis": "Psoriasis palmoplantar",
+        "description": "Red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2613": {
+        "diagnosis": "Psoriasis palmoplantar",
+        "description": "Well-defined red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Hands and Feet",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2624": {
+        "diagnosis": "Psoriasis palmoplantar",
+        "description": "Palmar plaque psoriasis.",
+        "morphology": "Red,scaly",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "36",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2630": {
+        "diagnosis": "Psoriasis palmoplantar",
+        "description": "Red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "23",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4890": {
+        "diagnosis": "Psoriasis palmoplantar",
+        "description": "Palmar psoriasis",
+        "morphology": "Red,scaly",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "91": {
+        "diagnosis": "Psoriasis pustular",
+        "description": "Acute pustules on a red base",
+        "morphology": "Pustules",
+        "site": "Neck nape",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "112": {
+        "diagnosis": "Psoriasis pustular",
+        "description": "Localised pustular psoriasis of the fingers",
+        "morphology": "Pustules",
+        "site": "Nails",
+        "sex": "M",
+        "age": "54",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "161": {
+        "diagnosis": "Psoriasis pustular",
+        "description": "Peeling pustules and scale",
+        "morphology": "Pustules",
+        "site": "Back",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "920": {
+        "diagnosis": "Psoriasis pustular",
+        "description": "Pustular eruption on erythematous background",
+        "morphology": "Pustules",
+        "site": "Abdomen",
+        "sex": "F",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1444": {
+        "diagnosis": "Psoriasis pustular",
+        "description": "Superficial pustules.",
+        "morphology": "Pustules",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2591": {
+        "diagnosis": "Psoriasis pustular",
+        "description": "Grouped planter pustules.",
+        "morphology": "Pustules",
+        "site": "Foot,sole",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4763": {
+        "diagnosis": "Psoriasis pustular",
+        "description": "Red scaly plaques with exfoliation.",
+        "morphology": "Red,scaly",
+        "site": "Trunk",
+        "sex": "F",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "571": {
+        "diagnosis": "Psoriasis rupioid",
+        "description": "Hyperkeratotic plaques",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "4835": {
+        "diagnosis": "Psoriasis scalp",
+        "description": "Thick silvery scale in scalp",
+        "morphology": "Scales",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "241": {
+        "diagnosis": "Rosacea",
+        "description": "Erythema and telangiectasia",
+        "morphology": "Telangiectasia",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "281": {
+        "diagnosis": "Rosacea",
+        "description": "Papules pustules and erythema",
+        "morphology": "Pustules",
+        "site": "Forehead",
+        "sex": "M",
+        "age": "46",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "319": {
+        "diagnosis": "Rosacea",
+        "description": "Infiltrated facial plaques",
+        "morphology": "Plaque",
+        "site": "Forehead",
+        "sex": "M",
+        "age": "65",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "628": {
+        "diagnosis": "Rosacea",
+        "description": "Papules and pustules in the mid-face (nasolabial regions)",
+        "morphology": "Plaque",
+        "site": "Face papules multiple",
+        "sex": "F",
+        "age": "52",
+        "type": "Clinical",
+        "submitted by": "Mehravaran Mehrdad"
+    },
+    "1190": {
+        "diagnosis": "Rosacea",
+        "description": "Nodular sebaceous hypertrophy.",
+        "morphology": "Nodule",
+        "site": "Nose",
+        "sex": "M",
+        "age": "54",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1231": {
+        "diagnosis": "Rosacea",
+        "description": "Prominent telangiectasia and erythema",
+        "morphology": "Telangiectasia",
+        "site": "Face",
+        "sex": "F",
+        "age": "51",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "1331": {
+        "diagnosis": "Rosacea",
+        "description": "Papulopustular rash on background of erythema.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "F",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1745": {
+        "diagnosis": "Rosacea",
+        "description": "Red Scaly rash on face",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "56",
+        "type": "Clinical",
+        "submitted by": "Preshy Varghese"
+    },
+    "2136": {
+        "diagnosis": "Rosacea",
+        "description": "Papulopustular rash.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "F",
+        "age": "37",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2234": {
+        "diagnosis": "Rosacea",
+        "description": "Red butterfly rash.",
+        "morphology": "Papules,red",
+        "site": "Face",
+        "sex": "F",
+        "age": "78",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2252": {
+        "diagnosis": "Rosacea",
+        "description": "Papulopustular rash.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2283": {
+        "diagnosis": "Rosacea",
+        "description": "Red swollen face.",
+        "morphology": "Swelling",
+        "site": "Face",
+        "sex": "M",
+        "age": "67",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2487": {
+        "diagnosis": "Rosacea",
+        "description": "Papulopustular rash.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "F",
+        "age": "57",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2494": {
+        "diagnosis": "Rosacea",
+        "description": "Papulopustular rash.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "F",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2506": {
+        "diagnosis": "Rosacea",
+        "description": "Red butterfly rash.",
+        "morphology": "Papules,red",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2524": {
+        "diagnosis": "Rosacea",
+        "description": "Papules, pustules and erythematous swelling.",
+        "morphology": "Papules,red",
+        "site": "Face",
+        "sex": "F",
+        "age": "48",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2681": {
+        "diagnosis": "Rosacea",
+        "description": "Erythema, papules and pustules.",
+        "morphology": "Papules,red",
+        "site": "Face",
+        "sex": "F",
+        "age": "65",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "3703": {
+        "diagnosis": "Rosacea",
+        "description": "Papulopustular rosacea",
+        "morphology": "Pustules",
+        "site": "Nose",
+        "sex": "F",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4877": {
+        "diagnosis": "Rosacea",
+        "description": "Papulopustules on background of erythema",
+        "morphology": "Red,nonscaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "48",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4885": {
+        "diagnosis": "Rosacea",
+        "description": "Papulopustular facial rash",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4937": {
+        "diagnosis": "Rosacea",
+        "description": "Papulopustular rash",
+        "morphology": "Erythema",
+        "site": "Face",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "50": {
+        "diagnosis": "Scabies",
+        "description": "Vesicles,crusts and excoriations in the web spaces",
+        "morphology": "Excoriation",
+        "site": "Web spaces",
+        "sex": "M",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "65": {
+        "diagnosis": "Scabies",
+        "description": "Scabetic nodules",
+        "morphology": "Nodule",
+        "site": "Scrotum",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "264": {
+        "diagnosis": "Scabies",
+        "description": "multiple erythematous papules",
+        "morphology": "Papules,red",
+        "site": "Foot,sole",
+        "sex": "M",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "717": {
+        "diagnosis": "Scabies",
+        "description": "Impetiginized and secondarily infected burrows",
+        "morphology": "Pustules",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "771": {
+        "diagnosis": "Scabies",
+        "description": "Red linear papules",
+        "morphology": "Papules,red",
+        "site": "Elbow",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "776": {
+        "diagnosis": "Scabies",
+        "description": "Multiple burrows seen under the dermatoscope",
+        "morphology": "Excoriation",
+        "site": "Breast",
+        "sex": "F",
+        "age": "82",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "926": {
+        "diagnosis": "Scabies",
+        "description": "erythematous scaly plaques with irreular borders over back and arms ; burrows between the web spaces",
+        "morphology": "Red,scaly",
+        "site": "Other",
+        "sex": "M",
+        "age": "14",
+        "type": "Clinical",
+        "submitted by": ""
+    },
+    "947": {
+        "diagnosis": "Scabies",
+        "description": "Burrow and red papules mainly on the prepuce",
+        "morphology": "Papules,red",
+        "site": "Penis",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1600": {
+        "diagnosis": "Scabies",
+        "description": "Linear burrow.",
+        "morphology": "Linear",
+        "site": "Finger",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1687": {
+        "diagnosis": "Scabies",
+        "description": "Scabetic nodules.",
+        "morphology": "Nodule",
+        "site": "Back",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2160": {
+        "diagnosis": "Scabies",
+        "description": "Penile papules, nodules and erosions.",
+        "morphology": "Erosions",
+        "site": "Penis",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2421": {
+        "diagnosis": "Scabies",
+        "description": "Papulopustular rash.",
+        "morphology": "Pustules",
+        "site": "Foot,sole",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Khalil Al-Hamdi"
+    },
+    "4712": {
+        "diagnosis": "Scabies",
+        "description": "Pustules",
+        "morphology": "Pustules",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "4713": {
+        "diagnosis": "Scabies",
+        "description": "Pustules,crusts",
+        "morphology": "Pustules",
+        "site": "Foot,sole",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "94": {
+        "diagnosis": "Scabies crusted",
+        "description": "thick scaly crusted plaques",
+        "morphology": "Crusts",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "95": {
+        "diagnosis": "Scabies crusted",
+        "description": "Scales and crusts on the eyebrow and forehead",
+        "morphology": "Skin coloured,scaly",
+        "site": "Eyebrow",
+        "sex": "M",
+        "age": "73",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "470": {
+        "diagnosis": "Scabies crusted",
+        "description": "Hyperkeratotic scaly plaques",
+        "morphology": "Crusts",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "537": {
+        "diagnosis": "Scabies crusted",
+        "description": "Crusted plaques and erosions",
+        "morphology": "Crusts",
+        "site": "Hand,palm",
+        "sex": "F",
+        "age": "70",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "736": {
+        "diagnosis": "Scabies crusted",
+        "description": "Crusted scales on fingers",
+        "morphology": "Crusts",
+        "site": "Finger",
+        "sex": "F",
+        "age": "80",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "358": {
+        "diagnosis": "Scrofuloderma with herpes zoster",
+        "description": "Sinus with grouped vesicles",
+        "morphology": "Vesicles",
+        "site": "Neck side",
+        "sex": "F",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "481": {
+        "diagnosis": "Sebopsoriasis",
+        "description": "Red greasy scales",
+        "morphology": "Red,scaly",
+        "site": "Chest",
+        "sex": "M",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "84": {
+        "diagnosis": "Seborrheic dermatitis",
+        "description": "Red scaly patches",
+        "morphology": "Patch",
+        "site": "Ear",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "354": {
+        "diagnosis": "Seborrheic dermatitis",
+        "description": "Red scaly plaques",
+        "morphology": "Red,scaly",
+        "site": "Groin infant",
+        "sex": "M",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "712": {
+        "diagnosis": "Seborrheic dermatitis",
+        "description": "Red scaly plaques",
+        "morphology": "Red,scaly",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "747": {
+        "diagnosis": "Seborrheic dermatitis",
+        "description": "Scaly area on cheek",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "M",
+        "age": "22",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "1103": {
+        "diagnosis": "Seborrheic dermatitis",
+        "description": "Greasy scales on nasolabial folds",
+        "morphology": "Crusts",
+        "site": "Face",
+        "sex": "M",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "2012": {
+        "diagnosis": "Seborrheic dermatitis",
+        "description": "Acrosss top portion of face, and into scalp, erythema and scale with slight itching",
+        "morphology": "Scales",
+        "site": "Face",
+        "sex": "M",
+        "age": "76",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "110": {
+        "diagnosis": "Stasis dermatitis",
+        "description": "Oozing and eczematous changes",
+        "morphology": "Ulcer",
+        "site": "Ankle",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1664": {
+        "diagnosis": "Stasis dermatitis",
+        "description": "Eczematous rash.",
+        "morphology": "Red,scaly",
+        "site": "Shins",
+        "sex": "M",
+        "age": "42",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1742": {
+        "diagnosis": "Stasis dermatitis",
+        "description": "red, scaly eczemaous plaque",
+        "morphology": "Red,scaly",
+        "site": "Leg",
+        "sex": "F",
+        "age": "44",
+        "type": "Clinical",
+        "submitted by": "alaa saad"
+    },
+    "2315": {
+        "diagnosis": "Stasis dermatitis",
+        "description": "Lichenified hyperpigmented scaly plaque.",
+        "morphology": "Lichenification",
+        "site": "Leg",
+        "sex": "M",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4776": {
+        "diagnosis": "Stasis dermatitis",
+        "description": "Bilateral eczematous rash.",
+        "morphology": "Patch",
+        "site": "Leg",
+        "sex": "F",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "795": {
+        "diagnosis": "Steroid acne",
+        "description": "monomorphous papulopustules",
+        "morphology": "Papules",
+        "site": "Chest",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "881": {
+        "diagnosis": "Steroid acne",
+        "description": "red papular eruption",
+        "morphology": "Papules,red",
+        "site": "Neck front",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "1026": {
+        "diagnosis": "Steroid acne",
+        "description": "Monomorphous papulopustular rash of sudden onset.",
+        "morphology": "Papules",
+        "site": "Chest",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1186": {
+        "diagnosis": "Steroid acne",
+        "description": "Inflammatory papules and pustules",
+        "morphology": "Papules,red",
+        "site": "Face",
+        "sex": "M",
+        "age": "16",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1369": {
+        "diagnosis": "Steroid acne",
+        "description": "Widespread pustular rash.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "745": {
+        "diagnosis": "Steroid induced acne",
+        "description": "Microcomedones",
+        "morphology": "Follicular plugging",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Sadia Ammad"
+    },
+    "2229": {
+        "diagnosis": "Steroid induced rosacea",
+        "description": "Papulopustular rash.",
+        "morphology": "Pustules",
+        "site": "Face",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "202": {
+        "diagnosis": "Subacute lupus erythematosus",
+        "description": "Multiple annular psoriasiform plaques",
+        "morphology": "Red,scaly",
+        "site": "Back",
+        "sex": "F",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "255": {
+        "diagnosis": "Subacute lupus erythematosus",
+        "description": "Red scaly psoriasiform rash",
+        "morphology": "Red,scaly",
+        "site": "Back",
+        "sex": "M",
+        "age": "67",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "258": {
+        "diagnosis": "Subacute lupus erythematosus",
+        "description": "Annular slightly scaly variant on the breasts and chest",
+        "morphology": "Annular",
+        "site": "Chest",
+        "sex": "F",
+        "age": "72",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "1004": {
+        "diagnosis": "Subacute lupus erythematosus",
+        "description": "Scaly, annular plaques",
+        "morphology": "Annular",
+        "site": "All Sites",
+        "sex": "M",
+        "age": "58",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "329": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Punched out erosions",
+        "morphology": "Red,nonscaly",
+        "site": "Mouth",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "449": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Erythema of lips and erosion on palate",
+        "morphology": "Red,nonscaly",
+        "site": "Mouth",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "1627": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Erythematous butterfly rash.",
+        "morphology": "Photosensitive distribution",
+        "site": "Face",
+        "sex": "F",
+        "age": "65",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2083": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Necrotic ulcers.",
+        "morphology": "Ulcer",
+        "site": "Thigh",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2102": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "erythematous scaly rash",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Salai Jayakumar"
+    },
+    "2177": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Red butterfly rash.",
+        "morphology": "Red,nonscaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2294": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Large geographic ulcerations",
+        "morphology": "Ulcer",
+        "site": "Lips",
+        "sex": "F",
+        "age": "29",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "2318": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Red butterfly rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "67",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2423": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Erythematous plaque in butterfly distribution",
+        "morphology": "Red,nonscaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "2432": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Erythematous plaque in butterfly distribution",
+        "morphology": "Abscess",
+        "site": "Face",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "2439": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Red butterfly rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4941": {
+        "diagnosis": "Systemic lupus erythematosus",
+        "description": "Erythematous macules",
+        "morphology": "Erythema",
+        "site": "Face",
+        "sex": "F",
+        "age": "16",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "415": {
+        "diagnosis": "Systemic lupus erythematosus in childhood",
+        "description": "Malar rash across cheeks and nose",
+        "morphology": "Plaque",
+        "site": "Face",
+        "sex": "F",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1524": {
+        "diagnosis": "Systemic lupus erythematosus in childhood",
+        "description": "Erythematous butterfly rash.",
+        "morphology": "Macule red",
+        "site": "Face",
+        "sex": "F",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "204": {
+        "diagnosis": "Tinea barbae",
+        "description": "A nodular plaque",
+        "morphology": "Plaque",
+        "site": "Chin",
+        "sex": "M",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1281": {
+        "diagnosis": "Tinea barbae",
+        "description": "Inflammatory localised hair loss in the beard.",
+        "morphology": "Hair loss localised",
+        "site": "Beard",
+        "sex": "M",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1543": {
+        "diagnosis": "Tinea barbae",
+        "description": "Red plaque with pustules.",
+        "morphology": "Pustules",
+        "site": "Neck side",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "503": {
+        "diagnosis": "Tinea capitis",
+        "description": "Black dot tinea capitis of the eyebrow",
+        "morphology": "Hair loss localised",
+        "site": "Eyebrow",
+        "sex": "F",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "504": {
+        "diagnosis": "Tinea capitis",
+        "description": "Crusted plaques, pustules and moth eaten hairless patches of scarring alopecia",
+        "morphology": "Crusts",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "8",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "769": {
+        "diagnosis": "Tinea capitis",
+        "description": "Grey scaly patch with sparse broken hairs",
+        "morphology": "Patch",
+        "site": "Scalp",
+        "sex": "F",
+        "age": "9",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1116": {
+        "diagnosis": "Tinea capitis",
+        "description": "Localized non-scarring alopecia.",
+        "morphology": "Hair loss localised",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "7",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1199": {
+        "diagnosis": "Tinea capitis",
+        "description": "Slightly red patch with localized hair loss.",
+        "morphology": "Patch",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2378": {
+        "diagnosis": "Tinea capitis",
+        "description": "Red scaly patch with localized hair loss.",
+        "morphology": "Hair loss localised",
+        "site": "Scalp",
+        "sex": "F",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2442": {
+        "diagnosis": "Tinea capitis",
+        "description": "Black-dot pattern of tinea capitis.",
+        "morphology": "Hair loss localised",
+        "site": "Scalp",
+        "sex": "F",
+        "age": "7",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2478": {
+        "diagnosis": "Tinea capitis",
+        "description": "Rounded patch with non-cicatricial hair loss.",
+        "morphology": "Hair loss localised",
+        "site": "Scalp",
+        "sex": "F",
+        "age": "6",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2623": {
+        "diagnosis": "Tinea capitis",
+        "description": "Localized non-scarring alopecia.",
+        "morphology": "Hair loss localised",
+        "site": "Scalp",
+        "sex": "F",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4803": {
+        "diagnosis": "Tinea capitis",
+        "description": "Gray-patch tinea capitis",
+        "morphology": "Hair loss localised",
+        "site": "Scalp",
+        "sex": "M",
+        "age": "8",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1184": {
+        "diagnosis": "Tinea circinata",
+        "description": "Circinate erythematous scaly plaque.",
+        "morphology": "Red,scaly",
+        "site": "Leg",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1295": {
+        "diagnosis": "Tinea circinata",
+        "description": "Red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "11",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1528": {
+        "diagnosis": "Tinea circinata",
+        "description": "Circinate red scaly plaque.",
+        "morphology": "Red,scaly",
+        "site": "Chest",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2098": {
+        "diagnosis": "Tinea circinata",
+        "description": "Well-demarcated circinate plaque.",
+        "morphology": "Annular",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "11",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2619": {
+        "diagnosis": "Tinea circinata",
+        "description": "Circinate plaque with an active border.",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4824": {
+        "diagnosis": "Tinea circinata",
+        "description": "Circinate red scaly patch.",
+        "morphology": "Red,scaly",
+        "site": "Neck side",
+        "sex": "F",
+        "age": "8",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4837": {
+        "diagnosis": "Tinea circinata",
+        "description": "Red scaly circinate lesion.",
+        "morphology": "Red,scaly",
+        "site": "Ankle",
+        "sex": "M",
+        "age": "8",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "135": {
+        "diagnosis": "Tinea corporis",
+        "description": "Red annular scaly plaque",
+        "morphology": "Annular",
+        "site": "Chest",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "182": {
+        "diagnosis": "Tinea corporis",
+        "description": "Extensive red scaling rash on the back",
+        "morphology": "Red,scaly",
+        "site": "Back",
+        "sex": "M",
+        "age": "67",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "282": {
+        "diagnosis": "Tinea corporis",
+        "description": "Spreading scaly rash on the chest wall",
+        "morphology": "Annular",
+        "site": "Chest",
+        "sex": "M",
+        "age": "67",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "485": {
+        "diagnosis": "Tinea corporis",
+        "description": "Annular, erythematous scaly plaque",
+        "morphology": "Annular",
+        "site": "Chest",
+        "sex": "F",
+        "age": "36",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "780": {
+        "diagnosis": "Tinea corporis",
+        "description": "Annular scaly plaque",
+        "morphology": "Annular",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "794": {
+        "diagnosis": "Tinea corporis",
+        "description": "Erythematous annular scaly plaque",
+        "morphology": "Annular",
+        "site": "Chest",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "853": {
+        "diagnosis": "Tinea corporis",
+        "description": "Red scaly annular plaques",
+        "morphology": "Annular",
+        "site": "Buttocks",
+        "sex": "M",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "906": {
+        "diagnosis": "Tinea corporis",
+        "description": "",
+        "morphology": "Annular",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "16",
+        "type": "Clinical",
+        "submitted by": "Ahmed Eyssa"
+    },
+    "1041": {
+        "diagnosis": "Tinea corporis",
+        "description": "Erythematous, oval, scaly plaque with an active border.",
+        "morphology": "Plaque",
+        "site": "Shoulder",
+        "sex": "F",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1149": {
+        "diagnosis": "Tinea corporis",
+        "description": "Erythematous rounded scaly patches.",
+        "morphology": "Red,scaly",
+        "site": "Arms and Legs",
+        "sex": "F",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1529": {
+        "diagnosis": "Tinea corporis",
+        "description": "An annular plaque with an active border.",
+        "morphology": "Annular",
+        "site": "Shoulder",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1540": {
+        "diagnosis": "Tinea corporis",
+        "description": "Circinate red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Trunk",
+        "sex": "F",
+        "age": "2",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1721": {
+        "diagnosis": "Tinea corporis",
+        "description": "Red annular plaque",
+        "morphology": "Annular",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1992": {
+        "diagnosis": "Tinea corporis",
+        "description": "Annular, scaly plaque",
+        "morphology": "Annular",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "42",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "2090": {
+        "diagnosis": "Tinea corporis",
+        "description": "Circinate plaque.",
+        "morphology": "Plaque",
+        "site": "Wrist",
+        "sex": "M",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2094": {
+        "diagnosis": "Tinea corporis",
+        "description": "Annular erythematous plaques.",
+        "morphology": "Red,scaly",
+        "site": "Arm,upper",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2129": {
+        "diagnosis": "Tinea corporis",
+        "description": "Red scaly patch with an active border.",
+        "morphology": "Red,scaly",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2141": {
+        "diagnosis": "Tinea corporis",
+        "description": "Oval red scaly patch.",
+        "morphology": "Red,scaly",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "7",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2349": {
+        "diagnosis": "Tinea corporis",
+        "description": "Circinate plaques with active borders.",
+        "morphology": "Annular",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2459": {
+        "diagnosis": "Tinea corporis",
+        "description": "Circinate red scaly plaques with active borders.",
+        "morphology": "Red,scaly",
+        "site": "Back",
+        "sex": "M",
+        "age": "2",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2477": {
+        "diagnosis": "Tinea corporis",
+        "description": "Red scaly patches.",
+        "morphology": "Red,scaly",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2490": {
+        "diagnosis": "Tinea corporis",
+        "description": "Circinate red scaly plaques with active borders.",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "33",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2533": {
+        "diagnosis": "Tinea corporis",
+        "description": "Circinate red scaly plaque studded with pustules.",
+        "morphology": "Pustules",
+        "site": "Arm,forearm",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2567": {
+        "diagnosis": "Tinea corporis",
+        "description": "Concentric red scaly circinate patches.",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2616": {
+        "diagnosis": "Tinea corporis",
+        "description": "Red scaly plaques.",
+        "morphology": "Red,scaly",
+        "site": "Axillae",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2622": {
+        "diagnosis": "Tinea corporis",
+        "description": "Red scaly rash with active border.",
+        "morphology": "Red,scaly",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2673": {
+        "diagnosis": "Tinea corporis",
+        "description": "Red plaque with an active border.",
+        "morphology": "Plaque",
+        "site": "Leg",
+        "sex": "F",
+        "age": "23",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4841": {
+        "diagnosis": "Tinea corporis",
+        "description": "Eczematous rash",
+        "morphology": "Red,scaly",
+        "site": "Buttocks",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4876": {
+        "diagnosis": "Tinea corporis",
+        "description": "Red circinate plaque",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "102": {
+        "diagnosis": "Tinea cruris",
+        "description": "Red annular scaly plaques",
+        "morphology": "Annular",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "181": {
+        "diagnosis": "Tinea cruris",
+        "description": "pigmented plaque",
+        "morphology": "Plaque",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Jayakar Thomas"
+    },
+    "790": {
+        "diagnosis": "Tinea cruris",
+        "description": "Erythematous scaly annular plaques",
+        "morphology": "Annular",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "823": {
+        "diagnosis": "Tinea cruris",
+        "description": "Enter Description",
+        "morphology": "Annular",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Yahia Albaili"
+    },
+    "983": {
+        "diagnosis": "Tinea cruris",
+        "description": "Red scaly plaques with active borders and clear centers",
+        "morphology": "Plaque",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1059": {
+        "diagnosis": "Tinea cruris",
+        "description": "Red plaque with well demarcated scaly border.",
+        "morphology": "Red,scaly",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1072": {
+        "diagnosis": "Tinea cruris",
+        "description": "Erythematous plaques with active scaly borders.",
+        "morphology": "Plaque",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1339": {
+        "diagnosis": "Tinea cruris",
+        "description": "Red patches with active borders.",
+        "morphology": "Patch",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1938": {
+        "diagnosis": "Tinea cruris",
+        "description": "symmetrical,hyperpigmented,patches",
+        "morphology": "Patch",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Karumuri Siva Rami Reddy"
+    },
+    "1956": {
+        "diagnosis": "Tinea cruris",
+        "description": "Well demarcated red scaly rash.",
+        "morphology": "Red,scaly",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "27",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2413": {
+        "diagnosis": "Tinea cruris",
+        "description": "Bilateral red scaly patches.",
+        "morphology": "Red,scaly",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "22",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2609": {
+        "diagnosis": "Tinea cruris",
+        "description": "Red scaly rash with active border and clear center.",
+        "morphology": "Red,scaly",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "58",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4897": {
+        "diagnosis": "Tinea cruris",
+        "description": "Hyperpigmented patch with an active border",
+        "morphology": "Red,scaly",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "20",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1944": {
+        "diagnosis": "Tinea cruris & Tinea manum",
+        "description": "Circinate red scaly patches.",
+        "morphology": "Red,scaly",
+        "site": "Groin adult",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "82": {
+        "diagnosis": "Tinea faciei",
+        "description": "Red annular scaly plaques",
+        "morphology": "Annular",
+        "site": "Ear",
+        "sex": "F",
+        "age": "55",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "427": {
+        "diagnosis": "Tinea faciei",
+        "description": "Red expanding scaly area cheek",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "7",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "513": {
+        "diagnosis": "Tinea faciei",
+        "description": "A large annular plaque",
+        "morphology": "Annular",
+        "site": "Forehead",
+        "sex": "M",
+        "age": "48",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "767": {
+        "diagnosis": "Tinea faciei",
+        "description": "Erythematous annular plaques",
+        "morphology": "Annular",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "8",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1056": {
+        "diagnosis": "Tinea faciei",
+        "description": "Erythematous scaly plaque with an active border.",
+        "morphology": "Plaque",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "47",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1142": {
+        "diagnosis": "Tinea faciei",
+        "description": "Oval red patch with active border and clear center.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "17",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1730": {
+        "diagnosis": "Tinea faciei",
+        "description": "Red plaque with an active margin.",
+        "morphology": "Annular",
+        "site": "Forehead",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1776": {
+        "diagnosis": "Tinea faciei",
+        "description": "Circinate red scaly patch.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2078": {
+        "diagnosis": "Tinea faciei",
+        "description": "Red scaly patch.",
+        "morphology": "Red,scaly",
+        "site": "Cheek",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2092": {
+        "diagnosis": "Tinea faciei",
+        "description": "Erythematous butterfly rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2246": {
+        "diagnosis": "Tinea faciei",
+        "description": "Red plaque with an active margin.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "21",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2264": {
+        "diagnosis": "Tinea faciei",
+        "description": "Red scaly patch.",
+        "morphology": "Red,scaly",
+        "site": "Perioral",
+        "sex": "M",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2470": {
+        "diagnosis": "Tinea faciei",
+        "description": "Dermatitis-like rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "52",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2565": {
+        "diagnosis": "Tinea faciei",
+        "description": "Circinate patches.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "34",
+        "type": "Clinical",
+        "submitted by": "Khalil Al-Hamdi"
+    },
+    "4901": {
+        "diagnosis": "Tinea faciei",
+        "description": "Butterfly red rash with rhinophymatous nose",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "23",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "710": {
+        "diagnosis": "Tinea imbricata",
+        "description": "Concentric scaly plaques",
+        "morphology": "Annular",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1293": {
+        "diagnosis": "Tinea imbricata",
+        "description": "Red scaly concentric rings.",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "F",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1888": {
+        "diagnosis": "Tinea imbricata",
+        "description": "Concentric red scaly rings.",
+        "morphology": "Annular",
+        "site": "Abdomen",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "363": {
+        "diagnosis": "Tinea incognito",
+        "description": "Red non scaly plaque",
+        "morphology": "Red,nonscaly",
+        "site": "Face",
+        "sex": "M",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "808": {
+        "diagnosis": "Tinea incognito",
+        "description": "",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "18",
+        "type": "Clinical",
+        "submitted by": "Tuseef Kamran"
+    },
+    "949": {
+        "diagnosis": "Tinea incognito",
+        "description": "Psoriasiform rash",
+        "morphology": "Plaque",
+        "site": "Foot,dorsum",
+        "sex": "F",
+        "age": "47",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1309": {
+        "diagnosis": "Tinea incognito",
+        "description": "Red scaly patches with active borders.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1619": {
+        "diagnosis": "Tinea incognito",
+        "description": "Psoriasiform rash.",
+        "morphology": "Red,scaly",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2003": {
+        "diagnosis": "Tinea incognito",
+        "description": "Red scaly plaques with active borders.",
+        "morphology": "Red,scaly",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "31",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2138": {
+        "diagnosis": "Tinea incognito",
+        "description": "Circinate plaque.",
+        "morphology": "Plaque",
+        "site": "Finger",
+        "sex": "F",
+        "age": "35",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2307": {
+        "diagnosis": "Tinea incognito",
+        "description": "Dermatitis-like rash.",
+        "morphology": "Red,scaly",
+        "site": "Face",
+        "sex": "F",
+        "age": "33",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2492": {
+        "diagnosis": "Tinea incognito",
+        "description": "Red scaly papules and plaques.",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "M",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2697": {
+        "diagnosis": "Tinea incognito",
+        "description": "scaly erythema with active margin",
+        "morphology": "Red,scaly",
+        "site": "Arm,forearm",
+        "sex": "M",
+        "age": "22",
+        "type": "Clinical",
+        "submitted by": ""
+    },
+    "4864": {
+        "diagnosis": "Tinea incognito",
+        "description": "Pruritic red scaly rash",
+        "morphology": "Red,scaly",
+        "site": "Genital",
+        "sex": "M",
+        "age": "14",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "380": {
+        "diagnosis": "Tinea manum",
+        "description": "Red annular scaly plaque",
+        "morphology": "Annular",
+        "site": "Hand,palm",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "722": {
+        "diagnosis": "Tinea manum",
+        "description": "Red annular scaly plaque",
+        "morphology": "Annular",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "768": {
+        "diagnosis": "Tinea manum",
+        "description": "Erythematous annular plaques studded with pustules",
+        "morphology": "Annular",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1035": {
+        "diagnosis": "Tinea manum",
+        "description": "Erythematous scal plaques with active borders.",
+        "morphology": "Plaque",
+        "site": "Hand,dorsum",
+        "sex": "M",
+        "age": "64",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1037": {
+        "diagnosis": "Tinea manum",
+        "description": "Red plaque with active border and clear center.",
+        "morphology": "Plaque",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "36",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1522": {
+        "diagnosis": "Tinea manum",
+        "description": "Red scaly plaque with active border.",
+        "morphology": "Red,scaly",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "36",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2095": {
+        "diagnosis": "Tinea manum",
+        "description": "Red scaly patch.",
+        "morphology": "Red,scaly",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "26",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "502": {
+        "diagnosis": "Tinea nigra",
+        "description": "Slowly growing brown macule",
+        "morphology": "Hyperpigmentation",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "694": {
+        "diagnosis": "Tinea nigra",
+        "description": "ASx Pigmented macule",
+        "morphology": "Macules",
+        "site": "Hand,palm",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "750": {
+        "diagnosis": "Tinea nigra",
+        "description": "Hyperpigmented patch",
+        "morphology": "Patch",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "50",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "2010": {
+        "diagnosis": "Tinea nigra",
+        "description": "Light brown macule",
+        "morphology": "Macule brown",
+        "site": "Foot,sole",
+        "sex": "M",
+        "age": "33",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "156": {
+        "diagnosis": "Tinea pedis",
+        "description": "Scale in the web spaces",
+        "morphology": "Plaque",
+        "site": "Web spaces",
+        "sex": "M",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "654": {
+        "diagnosis": "Tinea pedis",
+        "description": "Circular, erythema, scale and crusting on right plantar surface.",
+        "morphology": "Plaque",
+        "site": "Foot,sole",
+        "sex": "M",
+        "age": "37",
+        "type": "Clinical",
+        "submitted by": "Mehravaran Mehrdad"
+    },
+    "692": {
+        "diagnosis": "Tinea pedis",
+        "description": "Confluent scales",
+        "morphology": "Crusts",
+        "site": "Foot,sole",
+        "sex": "M",
+        "age": "30",
+        "type": "Histology",
+        "submitted by": "Ted Rosen"
+    },
+    "2205": {
+        "diagnosis": "Tinea pedis",
+        "description": "Interdigital erythema, fissuring and maceration.",
+        "morphology": "Fissures",
+        "site": "Web spaces",
+        "sex": "F",
+        "age": "38",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "185": {
+        "diagnosis": "Tinea unguium",
+        "description": "White fungus on the surface of the nail",
+        "morphology": "Nail dystrophy",
+        "site": "Nails",
+        "sex": "M",
+        "age": "56",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "627": {
+        "diagnosis": "Tinea unguium",
+        "description": "Complete nail involvement",
+        "morphology": "Nail dystrophy",
+        "site": "Nails",
+        "sex": "M",
+        "age": "70",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "1546": {
+        "diagnosis": "Tinea unguium",
+        "description": "Nail discoloration and partial dystrophy.",
+        "morphology": "Nail dystrophy",
+        "site": "Nails",
+        "sex": "M",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1821": {
+        "diagnosis": "Tinea unguium",
+        "description": "Nail discoloration and dystrophy.",
+        "morphology": "Nail colour",
+        "site": "Nails",
+        "sex": "F",
+        "age": "45",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2199": {
+        "diagnosis": "Tinea unguium",
+        "description": "Nail discoloration and partial dystrophy.",
+        "morphology": "Nail colour",
+        "site": "Nails",
+        "sex": "F",
+        "age": "19",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2232": {
+        "diagnosis": "Tinea unguium",
+        "description": "Yellowish green discoloration.",
+        "morphology": "Nail colour",
+        "site": "Nails",
+        "sex": "F",
+        "age": "58",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "86": {
+        "diagnosis": "Tinea versicolor",
+        "description": "Macules with branny scale",
+        "morphology": "Macule brown",
+        "site": "Chest",
+        "sex": "F",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "87": {
+        "diagnosis": "Tinea versicolor",
+        "description": "Red scaly areas on white skin",
+        "morphology": "Red,scaly",
+        "site": "Back",
+        "sex": "M",
+        "age": "24",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "88": {
+        "diagnosis": "Tinea versicolor",
+        "description": "Red scaly patches",
+        "morphology": "Red,scaly",
+        "site": "Buttocks",
+        "sex": "M",
+        "age": "30",
+        "type": "Clinical",
+        "submitted by": "Ian McColl"
+    },
+    "196": {
+        "diagnosis": "Tinea versicolor",
+        "description": "Hypopigmented macules with branny scale",
+        "morphology": "Hypopigmentation",
+        "site": "Chest",
+        "sex": "M",
+        "age": "14",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1132": {
+        "diagnosis": "Tropical acne",
+        "description": "Acneiform rash.",
+        "morphology": "Pustules",
+        "site": "Shoulder",
+        "sex": "M",
+        "age": "28",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2670": {
+        "diagnosis": "Tumid lupus",
+        "description": "an erythematous annular plaque",
+        "morphology": "Plaque",
+        "site": "Back",
+        "sex": "M",
+        "age": "37",
+        "type": "Clinical",
+        "submitted by": "Maryam Sadati"
+    },
+    "662": {
+        "diagnosis": "Urticaria",
+        "description": "Transient, pruritic, edematous, lightly erythematous papules or wheals",
+        "morphology": "Swelling",
+        "site": "Abdomen",
+        "sex": "F",
+        "age": "69",
+        "type": "Clinical",
+        "submitted by": "Mehravaran Mehrdad"
+    },
+    "763": {
+        "diagnosis": "Urticaria",
+        "description": "Urticarial hives",
+        "morphology": "Red,nonscaly",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "867": {
+        "diagnosis": "Urticaria",
+        "description": "raised, well-circumscribed areas of erythema above the surrounding skin",
+        "morphology": "Swelling",
+        "site": "Arm,upper",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "Ebtisam Elghblawi"
+    },
+    "1087": {
+        "diagnosis": "Urticaria",
+        "description": "Large-sized pinkish wheals.",
+        "morphology": "Swelling",
+        "site": "Face",
+        "sex": "F",
+        "age": "5",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1532": {
+        "diagnosis": "Urticaria",
+        "description": "Urticarial hives",
+        "morphology": "Swelling",
+        "site": "Thigh",
+        "sex": "F",
+        "age": "40",
+        "type": "Clinical",
+        "submitted by": "alaa saad"
+    },
+    "1731": {
+        "diagnosis": "Urticaria",
+        "description": "Wheals.",
+        "morphology": "Wheal",
+        "site": "Limbs",
+        "sex": "M",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1741": {
+        "diagnosis": "Urticaria",
+        "description": "Map-like wheals.",
+        "morphology": "Wheal",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "23",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2354": {
+        "diagnosis": "Urticaria",
+        "description": "Giant wheal.",
+        "morphology": "Wheal",
+        "site": "Face",
+        "sex": "M",
+        "age": "11",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "2631": {
+        "diagnosis": "Urticaria",
+        "description": "Urticarial wheal confined to one hand.",
+        "morphology": "Wheal",
+        "site": "Hand,dorsum",
+        "sex": "F",
+        "age": "12",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "4819": {
+        "diagnosis": "Urticaria",
+        "description": "Typical wheals.",
+        "morphology": "Wheal",
+        "site": "Neck side",
+        "sex": "M",
+        "age": "48",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "42": {
+        "diagnosis": "Urticaria Pigmentosa",
+        "description": "Multiple brown macules and papules",
+        "morphology": "Papules,brown",
+        "site": "Back",
+        "sex": "F",
+        "age": "30",
+        "type": "Clinical & Histology",
+        "submitted by": "Ian McColl"
+    },
+    "299": {
+        "diagnosis": "Urticaria Pigmentosa",
+        "description": "Multiple brown macules",
+        "morphology": "Macule brown",
+        "site": "Abdomen",
+        "sex": "F",
+        "age": "10",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "929": {
+        "diagnosis": "Urticaria Pigmentosa",
+        "description": "Pigmented plaques",
+        "morphology": "Plaque",
+        "site": "Arms and Legs",
+        "sex": "M",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Ted Rosen"
+    },
+    "1193": {
+        "diagnosis": "Urticaria Pigmentosa",
+        "description": "Brownish urticated papules and plaques.",
+        "morphology": "Papules,brown",
+        "site": "Back",
+        "sex": "M",
+        "age": "16",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1303": {
+        "diagnosis": "Urticaria Pigmentosa",
+        "description": "Urticated plaques.",
+        "morphology": "Hyperpigmentation",
+        "site": "Back",
+        "sex": "M",
+        "age": "3",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1999": {
+        "diagnosis": "Urticaria Pigmentosa",
+        "description": "Hyperpigmented patches and plaques.",
+        "morphology": "Hyperpigmentation",
+        "site": "Trunk",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "423": {
+        "diagnosis": "Urticarial vasculitis",
+        "description": "Painful red non blanching plaques",
+        "morphology": "Red,nonscaly",
+        "site": "Hand,palm",
+        "sex": "M",
+        "age": "14",
+        "type": "Clinical",
+        "submitted by": "Shahbaz Janjua"
+    },
+    "1245": {
+        "diagnosis": "Urticarial vasculitis",
+        "description": "Generalized whealing.",
+        "morphology": "Plaque",
+        "site": "Limbs",
+        "sex": "F",
+        "age": "4",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1248": {
+        "diagnosis": "Urticarial vasculitis",
+        "description": "Urticarial wheals.",
+        "morphology": "Plaque",
+        "site": "Limbs",
+        "sex": "F",
+        "age": "1",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1673": {
+        "diagnosis": "Urticarial vasculitis",
+        "description": "Wheals and purpura.",
+        "morphology": "Wheal",
+        "site": "Trunk",
+        "sex": "M",
+        "age": "25",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    },
+    "1733": {
+        "diagnosis": "Urticarial vasculitis",
+        "description": "Wheals with purpuric elements.",
+        "morphology": "Wheal",
+        "site": "Thigh",
+        "sex": "M",
+        "age": "32",
+        "type": "Clinical",
+        "submitted by": "Nameer Al-Sudany"
+    }
+}
