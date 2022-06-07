@@ -88,11 +88,3 @@ for list_ in url_list:
                 diag_url = li.find('a')['href']
                 print(diag_url)
                 read_subdirectory(diag_url, subfolder=diagnosis)
-# _testurl = "https://globalskinatlas.com/public/diagnosis/23"
-# _src = requests.get(_testurl, headers=HEADERS)
-# _soup = BeautifulSoup(_src.text, "html.parser")
-# _a = _soup.find_all("a")
-# _img = _soup.find_all("img", class_="image")
-# for img in _img:
-#     _id = img['id']
-#     print(_id)
