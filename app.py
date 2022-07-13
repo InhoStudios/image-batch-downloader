@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 from time import time
 from os.path import join, exists
-import userurlopener
 import json
 
 # GLOBALS
@@ -20,23 +19,22 @@ def read_subdirectory(url, subfolder="./"):
     source = requests.get(url, headers=HEADERS)
     soup = BeautifulSoup(source.text, "html.parser")
     imgs = soup.find_all("img", class_="image")
-    atag = soup.find_all("a")
-    download_images_from_url_list(imgs, subfolder) 
 
-
-def download_images_from_url_list(url_list, subfolder):
-    myOpener = userurlopener.URLOpener()
-    for img in url_list:
+    for img in imgs:
         imgurl = img['src']
         casestring = img['id']
         filename = imgurl.split('/')[-1]
-        save_file = join(ROOT_DIR, subfolder, filename)
 
-        if not exists(save_file):
-            get_metadata(filename, casestring)
-            myOpener.retrieve(imgurl, save_file)
+        parse_case(filename, casestring, subfolder)
 
-def get_metadata(image_name, casestring):
+def save_image(save_url, src_url):
+    if exists(save_url):
+        return
+    img_data = requests.get(src_url, headers=HEADERS).content
+    with open(save_url, 'wb') as image:
+        image.write(img_data)
+
+def parse_case(image_name, casestring, subfolder):
     # get data
     try:
         with (open(METADATA_FILE, "r") as f):
@@ -47,13 +45,14 @@ def get_metadata(image_name, casestring):
     image_id = image_name.split("_")[0]
     case_id = casestring.split("_")[-1]
     # find metadata
-    meta_url = join(METADATA_ROOT, image_id, case_id)
+    meta_url = join(METADATA_ROOT, image_id, case_id).replace("\\", "/")
     meta_src = requests.get(meta_url, headers=HEADERS)
     meta_soup = BeautifulSoup(meta_src.text, "html.parser")
     plain_text = meta_soup.find_all('p')[1:]
     # select metadata
     metatags = {"site", "description", "morphology", "diagnosis", "sex", "age", "type", "submitted by"}
     entry = {}
+    
     for field in plain_text:
         value = field.text
         for metatag in metatags:
@@ -62,13 +61,19 @@ def get_metadata(image_name, casestring):
                 tag = pair[0]
                 data = pair[1]
                 if metatag in tag.lower():
-                    print(metatag, value)
                     data = value.split(":")[1].strip()
                     entry[metatag] = data
             except:
-                print("Invalid field")
+                # print("Invalid field")
                 pass
     metadata[image_id] = entry
+
+    imgs = meta_soup.find_all("img", class_="image")
+    for img in imgs:
+        file_url = img['src']
+        filename = file_url.split("/")[-1]
+        save_url = join(ROOT_DIR, subfolder, filename)
+        save_image(save_url, file_url)
     try:
         with (open(METADATA_FILE, "w") as f):
             json.dump(metadata, f, ensure_ascii=False, indent=4)
